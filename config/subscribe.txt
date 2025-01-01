@@ -16,4 +16,4 @@ https://m3u.ibert.me/txt/j_iptv.txt
 https://ghgo.xyz/raw.githubusercontent.com/qingtingjjjjjjj/iptv-auto-update/refs/heads/main/my.txt
 https://ghgo.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
 https://ghgo.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
-https://ghgo.xyz/raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
+#https://ghgo.xyz/raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
