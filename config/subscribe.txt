@@ -12,6 +12,7 @@ https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 #https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/iptv.txt
 https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo.txt
+https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
 https://raw.githubusercontent.com/ZEROXIE01/IPTV/refs/heads/main/mytv1.m3u
 https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/ipv4.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
