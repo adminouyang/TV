@@ -13,6 +13,7 @@ https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/iptv.txt
 https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo.txt
 https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt
+https://raw.githubusercontent.com/adminouyang/dszby/refs/heads/main/py/%E6%B5%8B%E7%BB%98%E7%AB%99%E9%87%87%E9%9B%86/%E7%BB%BC%E5%90%88%E6%BA%90.txt
 https://raw.githubusercontent.com/ZEROXIE01/IPTV/refs/heads/main/mytv1.m3u
 https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/ipv4.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
