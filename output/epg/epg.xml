@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250613100519 +0800">
+<tv date="20250613111958 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -24144,6 +24144,9 @@
 	<programme channel="黑莓动画" start="20250613134500 +0800" stop="20250613150300 +0800">
 		<title lang="zh">西行纪之穷奇地洞</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250613150300 +0800" stop="20250613163200 +0800">
+		<title lang="zh">西游记之七十二变</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -24173,6 +24176,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250613140100 +0800" stop="20250613154500 +0800">
 		<title lang="zh">百鸟朝凤</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250613154500 +0800" stop="20250613171000 +0800">
+		<title lang="zh">鲨卷风6：最后的鲨卷风</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
