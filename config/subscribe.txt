@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/组播_北�
 https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/组播_四川电信.txt
 https://raw.githubusercontent.com/q1017673817/iptvz/refs/heads/main/txt/四川电信.txt
 https://raw.githubusercontent.com/zqs1qiwan/laobaitv/refs/heads/main/test/test/main.m3u
-https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/qinvision/Film-Television/refs/heads/main/dujuejiami.txt
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
 https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
