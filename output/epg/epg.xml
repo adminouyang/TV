@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251006060405 +0800">
+<tv date="20251006111847 +0800">
 	<channel id="CCTV-15">
 		<display-name lang="zh">CCTV-15</display-name>
 	</channel>
@@ -22731,6 +22731,9 @@
 	<programme channel="黑莓动画" start="20251006103100 +0800" stop="20251006142200 +0800">
 		<title lang="zh">汪汪队立大功第3季11</title>
 	</programme>
+	<programme channel="黑莓动画" start="20251006142200 +0800" stop="20251006165200 +0800">
+		<title lang="zh">11_猪猪侠之光明守卫者（上部）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -22757,6 +22760,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251006111800 +0800" stop="20251006123300 +0800">
 		<title lang="zh">齐天大圣b7无双</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251006123300 +0800" stop="20251006140700 +0800">
+		<title lang="zh">感动她77次</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251006140700 +0800" stop="20251006152000 +0800">
+		<title lang="zh">余生，请多指教</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251006152000 +0800" stop="20251006172900 +0800">
+		<title lang="zh">蜘蛛侠：英雄远征</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -22859,5 +22871,353 @@
 	</programme>
 	<programme channel="黑龙江卫视" start="20251006233600 +0800" stop="20251006235900 +0800">
 		<title lang="zh">活力剧场:追风行动</title>
+	</programme>
+	<channel id="IPTV经典电影">
+		<display-name lang="zh">IPTV经典电影</display-name>
+	</channel>
+	<channel id="书画频道">
+		<display-name lang="zh">书画频道</display-name>
+	</channel>
+	<programme channel="书画频道" start="20251006000000 +0800" stop="20251006010000 +0800">
+		<title lang="zh">中国书画音乐会</title>
+	</programme>
+	<programme channel="书画频道" start="20251006010000 +0800" stop="20251006013000 +0800">
+		<title lang="zh">2025大美之春作品展播:舒建新</title>
+	</programme>
+	<programme channel="书画频道" start="20251006013000 +0800" stop="20251006020000 +0800">
+		<title lang="zh">美术新闻</title>
+	</programme>
+	<programme channel="书画频道" start="20251006020000 +0800" stop="20251006023000 +0800">
+		<title lang="zh">一日一画:乔宜男(1)</title>
+	</programme>
+	<programme channel="书画频道" start="20251006023000 +0800" stop="20251006030000 +0800">
+		<title lang="zh">绘画课堂:石齐新中国画教学(8)</title>
+	</programme>
+	<programme channel="书画频道" start="20251006030000 +0800" stop="20251006033000 +0800">
+		<title lang="zh">美术新闻</title>
+	</programme>
+	<programme channel="书画频道" start="20251006033000 +0800" stop="20251006040000 +0800">
+		<title lang="zh">空中美术学院:胡勃</title>
+	</programme>
+	<programme channel="书画频道" start="20251006040000 +0800" stop="20251006043000 +0800">
+		<title lang="zh">空中美术学院:胡勃</title>
+	</programme>
+	<programme channel="书画频道" start="20251006043000 +0800" stop="20251006050000 +0800">
+		<title lang="zh">书画人生:徐里</title>
+	</programme>
+	<programme channel="书画频道" start="20251006050000 +0800" stop="20251006053000 +0800">
+		<title lang="zh">一日一画:乔宜男(1)</title>
+	</programme>
+	<programme channel="书画频道" start="20251006053000 +0800" stop="20251006060000 +0800">
+		<title lang="zh">2025大美之春作品展播:舒建新</title>
+	</programme>
+	<programme channel="书画频道" start="20251006060000 +0800" stop="20251006063000 +0800">
+		<title lang="zh">美术新闻</title>
+	</programme>
+	<programme channel="书画频道" start="20251006063000 +0800" stop="20251006070000 +0800">
+		<title lang="zh">绘画课堂:石齐新中国画教学(8)</title>
+	</programme>
+	<programme channel="书画频道" start="20251006070000 +0800" stop="20251006071500 +0800">
+		<title lang="zh">美术新闻</title>
+	</programme>
+	<programme channel="书画频道" start="20251006071500 +0800" stop="20251006073000 +0800">
+		<title lang="zh">书画频道保真拍卖</title>
+	</programme>
+	<programme channel="书画频道" start="20251006073000 +0800" stop="20251006080000 +0800">
+		<title lang="zh">美术大家:尼玛泽仁</title>
+	</programme>
+	<programme channel="书画频道" start="20251006080000 +0800" stop="20251006080500 +0800">
+		<title lang="zh">大家说:徐里</title>
+	</programme>
+	<programme channel="书画频道" start="20251006080500 +0800" stop="20251006085000 +0800">
+		<title lang="zh">空中美术学院:胡勃</title>
+	</programme>
+	<programme channel="书画频道" start="20251006085000 +0800" stop="20251006090000 +0800">
+		<title lang="zh">书画频道短视频:中秋雅集宣传片</title>
+	</programme>
+	<programme channel="书画频道" start="20251006090000 +0800" stop="20251006091500 +0800">
+		<title lang="zh">美术新闻</title>
+	</programme>
+	<programme channel="书画频道" start="20251006091500 +0800" stop="20251006093000 +0800">
+		<title lang="zh">书画频道保真拍卖</title>
+	</programme>
+	<programme channel="书画频道" start="20251006093000 +0800" stop="20251006100000 +0800">
+		<title lang="zh">绘画课堂:石齐新中国画教学(9)</title>
+	</programme>
+	<programme channel="书画频道" start="20251006100000 +0800" stop="20251006110000 +0800">
+		<title lang="zh">艺术家书画作品展暨中秋雅集晚会</title>
+	</programme>
+	<programme channel="书画频道" start="20251006110000 +0800" stop="20251006113000 +0800">
+		<title lang="zh">一日一画:乔宜男(2)</title>
+	</programme>
+	<programme channel="书画频道" start="20251006113000 +0800" stop="20251006114000 +0800">
+		<title lang="zh">2025一幅画的诞生:张仁芝</title>
+	</programme>
+	<programme channel="书画频道" start="20251006114000 +0800" stop="20251006115000 +0800">
+		<title lang="zh">一日一书:方放(11)</title>
+	</programme>
+	<programme channel="书画频道" start="20251006115000 +0800" stop="20251006120000 +0800">
+		<title lang="zh">大家说:徐里</title>
+	</programme>
+	<programme channel="书画频道" start="20251006120000 +0800" stop="20251006121500 +0800">
+		<title lang="zh">美术新闻</title>
+	</programme>
+	<programme channel="书画频道" start="20251006121500 +0800" stop="20251006123000 +0800">
+		<title lang="zh">书画频道保真拍卖</title>
+	</programme>
+	<programme channel="书画频道" start="20251006123000 +0800" stop="20251006130000 +0800">
+		<title lang="zh">美术大家:尼玛泽仁</title>
+	</programme>
+	<programme channel="书画频道" start="20251006130000 +0800" stop="20251006133000 +0800">
+		<title lang="zh">绘画课堂:石齐新中国画教学(9)</title>
+	</programme>
+	<programme channel="书画频道" start="20251006133000 +0800" stop="20251006133500 +0800">
+		<title lang="zh">书画频道短视频:中秋雅集宣传片</title>
+	</programme>
+	<programme channel="书画频道" start="20251006133500 +0800" stop="20251006142000 +0800">
+		<title lang="zh">空中美术学院:胡勃</title>
+	</programme>
+	<programme channel="书画频道" start="20251006142000 +0800" stop="20251006143000 +0800">
+		<title lang="zh">一日一书:方放(11)</title>
+	</programme>
+	<programme channel="书画频道" start="20251006143000 +0800" stop="20251006150000 +0800">
+		<title lang="zh">一日一画:乔宜男(2)</title>
+	</programme>
+	<programme channel="书画频道" start="20251006150000 +0800" stop="20251006160000 +0800">
+		<title lang="zh">艺术家书画作品展暨中秋雅集晚会</title>
+	</programme>
+	<programme channel="书画频道" start="20251006160000 +0800" stop="20251006163000 +0800">
+		<title lang="zh">美术大家:尼玛泽仁</title>
+	</programme>
+	<programme channel="书画频道" start="20251006163000 +0800" stop="20251006170000 +0800">
+		<title lang="zh">绘画课堂:石齐新中国画教学(9)</title>
+	</programme>
+	<programme channel="书画频道" start="20251006170000 +0800" stop="20251006171000 +0800">
+		<title lang="zh">2025一幅画的诞生:张仁芝</title>
+	</programme>
+	<programme channel="书画频道" start="20251006171000 +0800" stop="20251006175500 +0800">
+		<title lang="zh">空中美术学院:胡勃</title>
+	</programme>
+	<programme channel="书画频道" start="20251006175500 +0800" stop="20251006180000 +0800">
+		<title lang="zh">大家说:徐里</title>
+	</programme>
+	<programme channel="书画频道" start="20251006180000 +0800" stop="20251006181500 +0800">
+		<title lang="zh">美术新闻</title>
+	</programme>
+	<programme channel="书画频道" start="20251006181500 +0800" stop="20251006183000 +0800">
+		<title lang="zh">书画频道保真拍卖</title>
+	</programme>
+	<programme channel="书画频道" start="20251006183000 +0800" stop="20251006184000 +0800">
+		<title lang="zh">书画频道短视频:中秋雅集宣传片</title>
+	</programme>
+	<programme channel="书画频道" start="20251006184000 +0800" stop="20251006185000 +0800">
+		<title lang="zh">一日一书:方放(11)</title>
+	</programme>
+	<programme channel="书画频道" start="20251006185000 +0800" stop="20251006190000 +0800">
+		<title lang="zh">2025一幅画的诞生:张仁芝</title>
+	</programme>
+	<programme channel="书画频道" start="20251006190000 +0800" stop="20251006193000 +0800">
+		<title lang="zh">一日一画:乔宜男(2)</title>
+	</programme>
+	<programme channel="书画频道" start="20251006193000 +0800" stop="20251006200000 +0800">
+		<title lang="zh">美术大家:尼玛泽仁</title>
+	</programme>
+	<programme channel="书画频道" start="20251006200000 +0800" stop="20251006201000 +0800">
+		<title lang="zh">大家说:徐里</title>
+	</programme>
+	<programme channel="书画频道" start="20251006201000 +0800" stop="20251006205500 +0800">
+		<title lang="zh">空中美术学院:胡勃</title>
+	</programme>
+	<programme channel="书画频道" start="20251006205500 +0800" stop="20251006210000 +0800">
+		<title lang="zh">书画频道短视频:中秋雅集宣传片</title>
+	</programme>
+	<programme channel="书画频道" start="20251006210000 +0800" stop="20251006211500 +0800">
+		<title lang="zh">美术新闻</title>
+	</programme>
+	<programme channel="书画频道" start="20251006211500 +0800" stop="20251006213000 +0800">
+		<title lang="zh">书画频道保真拍卖</title>
+	</programme>
+	<programme channel="书画频道" start="20251006213000 +0800" stop="20251006220000 +0800">
+		<title lang="zh">绘画课堂:石齐新中国画教学(9)</title>
+	</programme>
+	<programme channel="书画频道" start="20251006220000 +0800" stop="20251006230000 +0800">
+		<title lang="zh">艺术家书画作品展暨中秋雅集晚会</title>
+	</programme>
+	<programme channel="书画频道" start="20251006230000 +0800" stop="20251006233000 +0800">
+		<title lang="zh">美术新闻</title>
+	</programme>
+	<programme channel="书画频道" start="20251006233000 +0800" stop="20251007000000 +0800">
+		<title lang="zh">美术大家:尼玛泽仁</title>
+	</programme>
+	<programme channel="书画频道" start="20251007000000 +0800" stop="20251007010000 +0800">
+		<title lang="zh">空中美术学院:胡勃</title>
+	</programme>
+	<programme channel="书画频道" start="20251007010000 +0800" stop="20251007013000 +0800">
+		<title lang="zh">2025大美之春作品展播:任惠中</title>
+	</programme>
+	<programme channel="书画频道" start="20251007013000 +0800" stop="20251007020000 +0800">
+		<title lang="zh">美术新闻</title>
+	</programme>
+	<programme channel="书画频道" start="20251007020000 +0800" stop="20251007023000 +0800">
+		<title lang="zh">一日一画:乔宜男(2)</title>
+	</programme>
+	<programme channel="书画频道" start="20251007023000 +0800" stop="20251007030000 +0800">
+		<title lang="zh">绘画课堂:石齐新中国画教学(9)</title>
+	</programme>
+	<programme channel="书画频道" start="20251007030000 +0800" stop="20251007033000 +0800">
+		<title lang="zh">美术新闻</title>
+	</programme>
+	<programme channel="书画频道" start="20251007033000 +0800" stop="20251007040000 +0800">
+		<title lang="zh">空中美术学院:胡勃</title>
+	</programme>
+	<programme channel="书画频道" start="20251007040000 +0800" stop="20251007043000 +0800">
+		<title lang="zh">空中美术学院:胡勃</title>
+	</programme>
+	<programme channel="书画频道" start="20251007043000 +0800" stop="20251007050000 +0800">
+		<title lang="zh">美术大家:尼玛泽仁</title>
+	</programme>
+	<programme channel="书画频道" start="20251007050000 +0800" stop="20251007053000 +0800">
+		<title lang="zh">一日一画:乔宜男(2)</title>
+	</programme>
+	<programme channel="书画频道" start="20251007053000 +0800" stop="20251007060000 +0800">
+		<title lang="zh">2025大美之春作品展播:任惠中</title>
+	</programme>
+	<programme channel="书画频道" start="20251007060000 +0800" stop="20251007063000 +0800">
+		<title lang="zh">美术新闻</title>
+	</programme>
+	<programme channel="书画频道" start="20251007063000 +0800" stop="20251007070000 +0800">
+		<title lang="zh">绘画课堂:石齐新中国画教学(9)</title>
+	</programme>
+	<programme channel="书画频道" start="20251007070000 +0800" stop="20251007071500 +0800">
+		<title lang="zh">美术新闻</title>
+	</programme>
+	<programme channel="书画频道" start="20251007071500 +0800" stop="20251007073000 +0800">
+		<title lang="zh">书画频道保真拍卖</title>
+	</programme>
+	<programme channel="书画频道" start="20251007073000 +0800" stop="20251007080000 +0800">
+		<title lang="zh">美术大家:张立辰</title>
+	</programme>
+	<programme channel="书画频道" start="20251007080000 +0800" stop="20251007080500 +0800">
+		<title lang="zh">大家说:何韵兰</title>
+	</programme>
+	<programme channel="书画频道" start="20251007080500 +0800" stop="20251007085000 +0800">
+		<title lang="zh">空中美术学院:胡勃</title>
+	</programme>
+	<programme channel="书画频道" start="20251007085000 +0800" stop="20251007090000 +0800">
+		<title lang="zh">书画频道短视频:艾轩工作室探访</title>
+	</programme>
+	<programme channel="书画频道" start="20251007090000 +0800" stop="20251007091500 +0800">
+		<title lang="zh">美术新闻</title>
+	</programme>
+	<programme channel="书画频道" start="20251007091500 +0800" stop="20251007093000 +0800">
+		<title lang="zh">书画频道保真拍卖</title>
+	</programme>
+	<programme channel="书画频道" start="20251007093000 +0800" stop="20251007100000 +0800">
+		<title lang="zh">绘画课堂:石齐新中国画教学(10)</title>
+	</programme>
+	<programme channel="书画频道" start="20251007100000 +0800" stop="20251007110000 +0800">
+		<title lang="zh">2024走进重庆武隆广场晚会</title>
+	</programme>
+	<programme channel="书画频道" start="20251007110000 +0800" stop="20251007113000 +0800">
+		<title lang="zh">一日一画:乔宜男(3)</title>
+	</programme>
+	<programme channel="书画频道" start="20251007113000 +0800" stop="20251007114000 +0800">
+		<title lang="zh">2025一幅画的诞生:踪岩夫</title>
+	</programme>
+	<programme channel="书画频道" start="20251007114000 +0800" stop="20251007115000 +0800">
+		<title lang="zh">一日一书:方放(12)</title>
+	</programme>
+	<programme channel="书画频道" start="20251007115000 +0800" stop="20251007120000 +0800">
+		<title lang="zh">大家说:何韵兰</title>
+	</programme>
+	<programme channel="书画频道" start="20251007120000 +0800" stop="20251007121500 +0800">
+		<title lang="zh">美术新闻</title>
+	</programme>
+	<programme channel="书画频道" start="20251007121500 +0800" stop="20251007123000 +0800">
+		<title lang="zh">书画频道保真拍卖</title>
+	</programme>
+	<programme channel="书画频道" start="20251007123000 +0800" stop="20251007130000 +0800">
+		<title lang="zh">美术大家:张立辰</title>
+	</programme>
+	<programme channel="书画频道" start="20251007130000 +0800" stop="20251007133000 +0800">
+		<title lang="zh">绘画课堂:石齐新中国画教学(10)</title>
+	</programme>
+	<programme channel="书画频道" start="20251007133000 +0800" stop="20251007133500 +0800">
+		<title lang="zh">书画频道短视频:艾轩工作室探访</title>
+	</programme>
+	<programme channel="书画频道" start="20251007133500 +0800" stop="20251007142000 +0800">
+		<title lang="zh">空中美术学院:胡勃</title>
+	</programme>
+	<programme channel="书画频道" start="20251007142000 +0800" stop="20251007143000 +0800">
+		<title lang="zh">一日一书:方放(12)</title>
+	</programme>
+	<programme channel="书画频道" start="20251007143000 +0800" stop="20251007150000 +0800">
+		<title lang="zh">一日一画:乔宜男(3)</title>
+	</programme>
+	<programme channel="书画频道" start="20251007150000 +0800" stop="20251007160000 +0800">
+		<title lang="zh">2024走进重庆武隆广场晚会</title>
+	</programme>
+	<programme channel="书画频道" start="20251007160000 +0800" stop="20251007163000 +0800">
+		<title lang="zh">美术大家:张立辰</title>
+	</programme>
+	<programme channel="书画频道" start="20251007163000 +0800" stop="20251007170000 +0800">
+		<title lang="zh">绘画课堂:石齐新中国画教学(10)</title>
+	</programme>
+	<programme channel="书画频道" start="20251007170000 +0800" stop="20251007171000 +0800">
+		<title lang="zh">2025一幅画的诞生:踪岩夫</title>
+	</programme>
+	<programme channel="书画频道" start="20251007171000 +0800" stop="20251007175500 +0800">
+		<title lang="zh">空中美术学院:胡勃</title>
+	</programme>
+	<programme channel="书画频道" start="20251007175500 +0800" stop="20251007180000 +0800">
+		<title lang="zh">大家说:何韵兰</title>
+	</programme>
+	<programme channel="书画频道" start="20251007180000 +0800" stop="20251007181500 +0800">
+		<title lang="zh">美术新闻</title>
+	</programme>
+	<programme channel="书画频道" start="20251007181500 +0800" stop="20251007183000 +0800">
+		<title lang="zh">书画频道保真拍卖</title>
+	</programme>
+	<programme channel="书画频道" start="20251007183000 +0800" stop="20251007184000 +0800">
+		<title lang="zh">书画频道短视频:艾轩工作室探访</title>
+	</programme>
+	<programme channel="书画频道" start="20251007184000 +0800" stop="20251007185000 +0800">
+		<title lang="zh">一日一书:方放(12)</title>
+	</programme>
+	<programme channel="书画频道" start="20251007185000 +0800" stop="20251007190000 +0800">
+		<title lang="zh">2025一幅画的诞生:踪岩夫</title>
+	</programme>
+	<programme channel="书画频道" start="20251007190000 +0800" stop="20251007193000 +0800">
+		<title lang="zh">一日一画:乔宜男(3)</title>
+	</programme>
+	<programme channel="书画频道" start="20251007193000 +0800" stop="20251007200000 +0800">
+		<title lang="zh">美术大家:张立辰</title>
+	</programme>
+	<programme channel="书画频道" start="20251007200000 +0800" stop="20251007201000 +0800">
+		<title lang="zh">大家说:何韵兰</title>
+	</programme>
+	<programme channel="书画频道" start="20251007201000 +0800" stop="20251007205500 +0800">
+		<title lang="zh">空中美术学院:胡勃</title>
+	</programme>
+	<programme channel="书画频道" start="20251007205500 +0800" stop="20251007210000 +0800">
+		<title lang="zh">书画频道短视频:艾轩工作室探访</title>
+	</programme>
+	<programme channel="书画频道" start="20251007210000 +0800" stop="20251007211500 +0800">
+		<title lang="zh">美术新闻</title>
+	</programme>
+	<programme channel="书画频道" start="20251007211500 +0800" stop="20251007213000 +0800">
+		<title lang="zh">书画频道保真拍卖</title>
+	</programme>
+	<programme channel="书画频道" start="20251007213000 +0800" stop="20251007220000 +0800">
+		<title lang="zh">绘画课堂:石齐新中国画教学(10)</title>
+	</programme>
+	<programme channel="书画频道" start="20251007220000 +0800" stop="20251007230000 +0800">
+		<title lang="zh">2024走进重庆武隆广场晚会</title>
+	</programme>
+	<programme channel="书画频道" start="20251007230000 +0800" stop="20251007233000 +0800">
+		<title lang="zh">美术新闻</title>
+	</programme>
+	<programme channel="书画频道" start="20251007233000 +0800" stop="20251008000000 +0800">
+		<title lang="zh">美术大家:张立辰</title>
 	</programme>
 </tv>
