@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-19 06:37:32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-19 18:42:29,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -181,6 +181,7 @@ CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
 CCTV17,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
 CCTV17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
+CCTV4K,https://iptv.catvod.com/live.php?id=CCTV-4K
 
 💰央视付费频道,#genre#
 文化精品,https://hls-gateway.vpstv.net/streams/708832.m3u8
@@ -1340,6 +1341,7 @@ iHOT爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/20000000040000000
 江苏新闻,https://migu.188766.xyz/?migutoken=6e5307cab86332aa483eb3a2e6e1b12e&id=%E5%85%AC%E5%85%B1%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
 江苏新闻,https://migu.188766.xyz/?migutoken=9cbf25de33a28be47e25413e19097ae3&id=%E5%85%AC%E5%85%B1%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
 江苏新闻,https://migu.188766.xyz/?migutoken=065780883bd427d8a13e8794d5bae827&id=%E5%85%AC%E5%85%B1%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
+江苏新闻,https://migu.188766.xyz/?migutoken=f4df9fefcf5e9539027f37bc8ed129fe&id=%E5%85%AC%E5%85%B1%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93&type=yy
 江苏体育休闲,https://stream1.freetv.fun/af1087a1c24fff7af556ac8e6c5c623303d52966f67a998cefb52c17811b09a2.ctv
 江苏体育休闲,https://migu.188766.xyz/?migutoken=a04e3908a5cf9cdf2c009462943dae56&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
 江苏体育休闲,https://migu.188766.xyz/?migutoken=90d4e3f3f8a5288cc5aac4a92021e341&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy
@@ -3114,6 +3116,7 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 音乐广播,https://tv.iill.top/fm/552&token=bde1753ec6759720c20ecedff6ec428eed4e2dd71d1433181fa7f50b8724a5bf
 音乐广播,https://tv.iill.top/fm/552&token=bc76ab7564df296b4275f3dc9e3cead14dfa08c65b4ac7cd82092d502cef3a24
 音乐广播,https://tv.iill.top/fm/552&token=d01b299b3b7eff22e7b7962a052f17f146b2e5e7c020e54920b6b236fd31d6b1
+音乐广播,https://tv.iill.top/fm/552&token=18d1c387d427be148b32f27842c48c0a118c85e789664b986bfa64b09da442be
 
 🏛经典剧场,#genre#
 笑傲江湖,http://lu.wqwqwq.sbs/yy/1354930909
