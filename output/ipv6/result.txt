@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-29 06:36:39,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-12-29 18:41:40,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -81,6 +81,7 @@ CCTV7,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/2
 CCTV7,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?
 CCTV7,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8
 CCTV7,https://www.freetv.top/migu/673168121.m3u8?migutoken=44446ab398991313e6a822efdaec82f3b845a2e8f141c172aa857c477255724bbb28fc01d33f764c51106c446af1c57e8815b58822075b194f4cf55cde28fe55f54330d4586c92e75e8aa50a48
+CCTV7,https://iptv.catvod.com/live.php?id=CCTV7
 CCTV8,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
 CCTV8,http://goo.bkpcp.top/mg/cctv8
 CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
