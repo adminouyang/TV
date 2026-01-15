@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/adminouyang/TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-15 06:38:55
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-15 18:43:16
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1445,12 +1445,18 @@ https://stream1.freetv.fun/liu-de-hua-2.ctv
 https://live.iill.top/huya/11342424
 #EXTINF:-1 tvg-name="欢乐综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/欢乐综艺.png" group-title="#斗鱼",欢乐综艺
 https://www.goodiptv.club/douyu/131977
+#EXTINF:-1 tvg-name="欢乐综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/欢乐综艺.png" group-title="#斗鱼",欢乐综艺
+https://live.ottiptv.cc/douyu/131977
+#EXTINF:-1 tvg-name="万合出品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/万合出品.png" group-title="#斗鱼",万合出品
+https://live.ottiptv.cc/douyu/9220456
 #EXTINF:-1 tvg-name="邵氏影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/邵氏影院.png" group-title="#斗鱼",邵氏影院
 https://www.goodiptv.club/douyu/4246519
 #EXTINF:-1 tvg-name="高分电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/高分电影.png" group-title="#斗鱼",高分电影
 https://yylunbo.ottiptv.cc/yy/1355171231
 #EXTINF:-1 tvg-name="特辑电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/特辑电影.png" group-title="#斗鱼",特辑电影
 https://www.goodiptv.club/douyu/3637778
+#EXTINF:-1 tvg-name="特辑电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/特辑电影.png" group-title="#斗鱼",特辑电影
+https://live.ottiptv.cc/douyu/3637778
 #EXTINF:-1 tvg-name="粤语电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/粤语电影.png" group-title="#斗鱼",粤语电影
 https://live.ottiptv.cc/douyu/1226741
 #EXTINF:-1 tvg-name="粤语电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/粤语电影.png" group-title="#斗鱼",粤语电影
@@ -1465,8 +1471,12 @@ http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 https://yylunbo.ottiptv.cc/yy/24066336
 #EXTINF:-1 tvg-name="贝爷贰厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贝爷贰厅.png" group-title="#斗鱼",贝爷贰厅
 https://www.goodiptv.club/douyu/4332
+#EXTINF:-1 tvg-name="贝爷贰厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贝爷贰厅.png" group-title="#斗鱼",贝爷贰厅
+https://live.ottiptv.cc/douyu/4332
 #EXTINF:-1 tvg-name="凌儿影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凌儿影院.png" group-title="#斗鱼",凌儿影院
 https://www.goodiptv.club/douyu/1377142
+#EXTINF:-1 tvg-name="凌儿影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凌儿影院.png" group-title="#斗鱼",凌儿影院
+https://live.ottiptv.cc/douyu/1377142
 #EXTINF:-1 tvg-name="古装神剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/古装神剧.png" group-title="#斗鱼",古装神剧
 https://live.metshop.top/douyu/338759
 #EXTINF:-1 tvg-name="史君说剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/史君说剧.png" group-title="#斗鱼",史君说剧
@@ -4697,6 +4707,8 @@ https://stream1.freetv.fun/an-hui-ying-shi-15.m3u8
 https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
 #EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽影视.png" group-title="☘️安徽频道",安徽影视
 https://t.freetv.fun/live/an-hui-ying-shi.m3u8
+#EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽影视.png" group-title="☘️安徽频道",安徽影视
+https://t.freetv.fun/live/an-hui-ying-shi-2.m3u8
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽经济生活.png" group-title="☘️安徽频道",安徽经济生活
 https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1745774515&key=a93a5e1794618b8f0038e5d4206cb748
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽经济生活.png" group-title="☘️安徽频道",安徽经济生活
@@ -5933,6 +5945,8 @@ https://migu.188766.xyz/?migutoken=f3057d0e91854bca6042a309f3cb3d6f&id=%E5%BF%AB
 https://migu.188766.xyz/?migutoken=544e3d34b28ff37f3c6c72cf4d8ee72b&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 https://migu.188766.xyz/?migutoken=103d22404add9b90cd72174eb1a0108b&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
+https://migu.188766.xyz/?migutoken=c6b17aba558cf29b13242b5ae063e5ed&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 #EXTINF:-1 tvg-name="JJ斗地主" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/JJ斗地主.png" group-title="🏀体育频道",JJ斗地主
 https://live.iill.top/douyin/685317364746
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/卡酷动画.png" group-title="🪁动画频道",卡酷动画

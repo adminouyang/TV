@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-15 06:38:55,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-15 18:43:16,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -734,9 +734,12 @@ iHOT爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123562
 刘德华,https://stream1.freetv.fun/liu-de-hua-2.ctv
 刘德华,https://live.iill.top/huya/11342424
 欢乐综艺,https://www.goodiptv.club/douyu/131977
+欢乐综艺,https://live.ottiptv.cc/douyu/131977
+万合出品,https://live.ottiptv.cc/douyu/9220456
 邵氏影院,https://www.goodiptv.club/douyu/4246519
 高分电影,https://yylunbo.ottiptv.cc/yy/1355171231
 特辑电影,https://www.goodiptv.club/douyu/3637778
+特辑电影,https://live.ottiptv.cc/douyu/3637778
 粤语电影,https://live.ottiptv.cc/douyu/1226741
 粤语电影,https://www.goodiptv.club/douyu/1226741
 动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010003
@@ -744,7 +747,9 @@ iHOT爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123562
 动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 恐怖电影,https://yylunbo.ottiptv.cc/yy/24066336
 贝爷贰厅,https://www.goodiptv.club/douyu/4332
+贝爷贰厅,https://live.ottiptv.cc/douyu/4332
 凌儿影院,https://www.goodiptv.club/douyu/1377142
+凌儿影院,https://live.ottiptv.cc/douyu/1377142
 古装神剧,https://live.metshop.top/douyu/338759
 史君说剧,https://www.goodiptv.club/douyu/9419771
 长片短解,https://www.goodiptv.club/douyu/9410946
@@ -2406,6 +2411,7 @@ iHOT爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123562
 安徽影视,https://stream1.freetv.fun/an-hui-ying-shi-15.m3u8
 安徽影视,https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
 安徽影视,https://t.freetv.fun/live/an-hui-ying-shi.m3u8
+安徽影视,https://t.freetv.fun/live/an-hui-ying-shi-2.m3u8
 安徽经济生活,https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1745774515&key=a93a5e1794618b8f0038e5d4206cb748
 安徽经济生活,https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1746292937&key=79ac954604c0abc146445a9603966f0a
 安徽经济生活,https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1746307365&key=eacbd8c7b284760ddec25b1dc3992bad
@@ -3044,6 +3050,7 @@ CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 快乐垂钓,https://migu.188766.xyz/?migutoken=f3057d0e91854bca6042a309f3cb3d6f&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 快乐垂钓,https://migu.188766.xyz/?migutoken=544e3d34b28ff37f3c6c72cf4d8ee72b&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 快乐垂钓,https://migu.188766.xyz/?migutoken=103d22404add9b90cd72174eb1a0108b&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
+快乐垂钓,https://migu.188766.xyz/?migutoken=c6b17aba558cf29b13242b5ae063e5ed&id=%E5%BF%AB%E4%B9%90%E5%9E%82%E9%92%93&type=yy
 JJ斗地主,https://live.iill.top/douyin/685317364746
 
 🪁动画频道,#genre#
