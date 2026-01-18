@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-18 18:38:43,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-19 06:36:49,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2639,6 +2639,7 @@ iHOT爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123562
 凤凰卫视,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 凤凰卫视,http://tv123.vvvv.ee/live.php/?ch=2f1bf0e11265
 凤凰卫视,http://tv123.vvvv.ee/live.php/?ch=e4f787241297
+凤凰卫视,http://tv123.vvvv.ee/live.php/?ch=0e53a870999
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
 TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
