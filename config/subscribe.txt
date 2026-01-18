@@ -1,9 +1,10 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-
-https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
-https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+http://iptv.4666888.xyz/iptv2A.php?id=30
+https://bc.188766.xyz/?ip=&mima=bingchawusifengxian
+https://od.lk/s/NjFfMTE2ODUzNDU1Xw/4GTVaa.txt
+http://tv123.vvvv.ee/tv.m3u
