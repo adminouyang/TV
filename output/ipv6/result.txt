@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-29 18:55:32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-30 06:46:07,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2663,6 +2663,7 @@ TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8
 纬来体育,http://bxtv.3a.ink/api.php?id=wlty
 纬来体育,http://tv123.vvvv.ee/live.php/?ch=505137a81645
+纬来体育,http://tv123.vvvv.ee/live.php/?ch=166e80da1920
 纬来育乐,https://vx65267199.18cn.dpdns.org/48.m3u8
 纬来育乐,https://hls-gateway.vpstv.net/streams/477081.m3u8
 纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
@@ -2711,6 +2712,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 东森电影,http://bxtv.3a.ink/api.php?id=dsdy
 东森电影,http://tv123.vvvv.ee/live.php/?ch=7051a241940
 东森电影,http://tv123.vvvv.ee/live.php/?ch=489903811732
+东森电影,http://tv123.vvvv.ee/live.php/?ch=367e8dbf2007
 Now剧集,http://pullpackage.alivecdn.com/live/B9AKX0X3gSWZVv91H6UZDdsYyM8Fie9HvmJFzg3XN8JiR27kog.flv
 靖天资讯,https://hls-gateway.vpstv.net/streams/476258.m3u8
 靖天资讯,http://pullpackage.alivecdn.com/live/jSi62v69ef4x6iYBScl4GTgr9WaWuRtR1v7DfyIDrCzlEjd4oO.flv
@@ -2850,6 +2852,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 东森电影,http://bxtv.3a.ink/api.php?id=dsdy
 东森电影,http://tv123.vvvv.ee/live.php/?ch=7051a241940
 东森电影,http://tv123.vvvv.ee/live.php/?ch=489903811732
+东森电影,http://tv123.vvvv.ee/live.php/?ch=367e8dbf2007
 龙祥电影,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
 龙祥电影,https://smt.go-iptv.ggff.net/smart.php?id=lungxiangtime_twn&token=Goiptv
 东森洋片,https://stream1.freetv.fun/dong-sen-yang-pian-3.m3u8
@@ -2952,6 +2955,7 @@ CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8
 纬来体育,http://bxtv.3a.ink/api.php?id=wlty
 纬来体育,http://tv123.vvvv.ee/live.php/?ch=505137a81645
+纬来体育,http://tv123.vvvv.ee/live.php/?ch=166e80da1920
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8
 五星体育,https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-7.m3u8
 五星体育,https://stream1.freetv.fun/wu-xing-ti-yu-15.m3u8
