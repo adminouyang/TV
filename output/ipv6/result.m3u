@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/adminouyang/TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-01 06:41:40
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-01 18:44:32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1473,6 +1473,8 @@ https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
 http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 #EXTINF:-1 tvg-name="恐怖电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/恐怖电影.png" group-title="#斗鱼",恐怖电影
 https://yylunbo.ottiptv.cc/yy/24066336
+#EXTINF:-1 tvg-name="神乐影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/神乐影视.png" group-title="#斗鱼",神乐影视
+https://live.ottiptv.cc/douyu/85894
 #EXTINF:-1 tvg-name="贝爷贰厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贝爷贰厅.png" group-title="#斗鱼",贝爷贰厅
 https://www.goodiptv.club/douyu/4332
 #EXTINF:-1 tvg-name="贝爷贰厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贝爷贰厅.png" group-title="#斗鱼",贝爷贰厅
@@ -1481,8 +1483,12 @@ https://live.ottiptv.cc/douyu/4332
 https://www.goodiptv.club/douyu/1377142
 #EXTINF:-1 tvg-name="凌儿影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凌儿影院.png" group-title="#斗鱼",凌儿影院
 https://live.ottiptv.cc/douyu/1377142
+#EXTINF:-1 tvg-name="可乐影视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/可乐影视.png" group-title="#斗鱼",可乐影视
+https://live.ottiptv.cc/douyu/20415
 #EXTINF:-1 tvg-name="古装神剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/古装神剧.png" group-title="#斗鱼",古装神剧
 https://live.metshop.top/douyu/338759
+#EXTINF:-1 tvg-name="热门港剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/热门港剧.png" group-title="#斗鱼",热门港剧
+https://live.ottiptv.cc/douyu/5522351
 #EXTINF:-1 tvg-name="史君说剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/史君说剧.png" group-title="#斗鱼",史君说剧
 https://www.goodiptv.club/douyu/9419771
 #EXTINF:-1 tvg-name="长片短解" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/长片短解.png" group-title="#斗鱼",长片短解
