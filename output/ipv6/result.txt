@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-06 19:00:55,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-07 06:44:08,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -202,6 +202,7 @@ CCTV4K,http://ott.mobaibox.com/PLTV/3/224/224/3221228228/index.m3u8
 第一剧场,https://100.061833.xyz/stream/mytv/null-6/stream.m3u8?uid=2190244325&u=hahayy&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
 第一剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_DIYIJC-CQ
 第一剧场,https://t.freetv.fun/live/cctvdi-yi-ju-chang.m3u8
+第一剧场,http://tv123.vvvv.ee/live.php/?ch=0d1fe4541816
 风云剧场,https://hls-gateway.vpstv.net/streams/708861.m3u8
 风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8
 风云剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNJC-CQ
