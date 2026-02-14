@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/adminouyang/TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-14 06:55:28
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-02-14 18:46:59
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1587,6 +1587,8 @@ https://goodiptv.club/douyu/3508304
 https://www.goodiptv.club/douyu/4258555
 #EXTINF:-1 tvg-name="小片片说大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/小片片说大片.png" group-title="#斗鱼",小片片说大片
 https://goodiptv.club/douyu/4258555
+#EXTINF:-1 tvg-name="火龙果说电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/火龙果说电影.png" group-title="#斗鱼",火龙果说电影
+https://goodiptv.club/douyu/9559158
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png" group-title="☘️广东频道",广东珠江
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广东珠江.png" group-title="☘️广东频道",广东珠江
