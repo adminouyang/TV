@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-15 06:44:06,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-15 18:52:11,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -190,12 +190,15 @@ CCTV4K,http://ott.mobaibox.com/PLTV/3/224/224/3221228228/index.m3u8
 💰央视付费频道,#genre#
 文化精品,https://hls-gateway.vpstv.net/streams/708832.m3u8
 文化精品,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV-WENHUA-CQ
+文化精品,http://www.qfly9236.cn:8888/rtp/239.253.92.25:6104
 央视台球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 央视台球,https://hls-gateway.vpstv.net/streams/708855.m3u8
 央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
+央视台球,http://www.qfly9236.cn:8888/rtp/239.253.93.231:6409
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
 风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
+风云音乐,http://www.qfly9236.cn:8888/rtp/239.253.92.111:8060
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 第一剧场,https://hls-gateway.vpstv.net/streams/708862.m3u8
 第一剧场,http://tl.061833.xyz/tl/null-6
@@ -209,24 +212,30 @@ CCTV4K,http://ott.mobaibox.com/PLTV/3/224/224/3221228228/index.m3u8
 风云剧场,https://hls-gateway.vpstv.net/streams/708861.m3u8
 风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8
 风云剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNJC-CQ
+风云剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.22:6073
 怀旧剧场,https://cc06.tv12.xyz/52.m3u8
 怀旧剧场,https://hls-gateway.vpstv.net/streams/708853.m3u8
 怀旧剧场,https://mursor.ottiptv.cc/mcp/hjjc.m3u8
 怀旧剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_HUAIJIUJC-CQ
+怀旧剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.98:6120
 女性时尚,https://cc06.tv12.xyz/95.m3u8
 女性时尚,http://iptv.666230.xyz/iptv/jsyd.php/G_NVXINGSS-CQ
+女性时尚,http://www.qfly9236.cn:8888/rtp/239.253.92.249:6103
 高尔夫网球,https://hls-gateway.vpstv.net/streams/708857.m3u8
 高尔夫网球,http://iptv.666230.xyz/iptv/jsyd.php/G_CCTV-GOLF-CQ
+高尔夫网球,http://www.qfly9236.cn:8888/rtp/239.253.92.117:8062
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
 风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
 风云足球,https://hls-gateway.vpstv.net/streams/708859.m3u8
 风云足球,https://cc06.tv12.xyz/41.m3u8
+风云足球,http://www.qfly9236.cn:8888/rtp/239.253.92.110:8061
 电视指南,https://cc06.tv12.xyz/39.m3u8
 电视指南,http://iptv.666230.xyz/iptv/jsyd.php/G_DIANSHIZN-CQ
 世界地理,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 世界地理,https://cc06.tv12.xyz/104.m3u8
+世界地理,http://www.qfly9236.cn:8888/rtp/239.253.92.113:8066
 兵器科技,https://hls-gateway.vpstv.net/streams/708856.m3u8
 兵器科技,http://iptv.666230.xyz/iptv/jsyd.php/G_BINGQIKJ-CQ
 CHC影迷电影,https://live.chinacert.cftest5.cn/mg/?id=952383261
@@ -265,6 +274,7 @@ CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba020
 中国天气,http://gslbmgsplive.miguvideo.com/migu/kailu/zgtq/50/20251103/index.m3u8?msisdn=20251211080421b3d8c8dcb9f948cf825a356c82a21d8a&mdspid=&spid=600697&netType=0&sid=5910022296&pid=2028597139&timestamp=20251211080421&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=959986621&ParentNodeID=-99&assertID=5910022296&client_ip=218.28.233.106&SecurityKey=20251211080421&promotionId=&mvid=5900006772&mcid=500020&playurlVersion=WX-A1-8.11.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=969d60b2d1787b663698b978a24926a4&ddCalcu=49a6v69a2dw96a402ba28d7197b8879b6636&sv=10004&ct=android
 中国天气,http://gslbmgsplive.miguvideo.com/migu/kailu/zgtq/50/20251103/index.m3u8?msisdn=202512120803459a17a47818a3419bb051a3057d886fbe&mdspid=&spid=600697&netType=0&sid=5910022296&pid=2028597139&timestamp=20251212080345&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=959986621&ParentNodeID=-99&assertID=5910022296&client_ip=218.28.233.106&SecurityKey=20251212080345&promotionId=&mvid=5900006772&mcid=500020&playurlVersion=ZQ-A1-8.12.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=9ab6554bec73f1d79edca6a44d672821&ddCalcu=192av8ba26w75a65d44b4eac67a3cfd1ed97&sv=10004&ct=android
 中国天气,http://[2409:8087:1e01:23::10]:8112/000000001000/5000000005000031974/1.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=m
+中国天气,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/zgtq/51/20251103/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600697&netType=0&sid=5910022296&pid=2028597139&timestamp=20260215080214&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=959986621&ParentNodeID=-99&assertID=5910022296&client_ip=218.28.233.106&SecurityKey=20260215080214&promotionId=&mvid=5900006772&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=971bd7cdb735e30bca1a3a79553511c3&sv=10004&ct=android
 
 📡特色频道,#genre#
 北京卫视4K超高清,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
@@ -294,6 +304,7 @@ CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba020
 古装剧场,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010004/1.m3u8
 武侠剧场,https://www.goodiptv.club/douyu/9285904
 武侠剧场,https://goodiptv.club/douyu/9285904
+武侠剧场,https://live.ottiptv.cc/douyu/9285904
 重温经典,https://other.ottiptv.cc/cwjd.m3u8
 重温经典,https://cdn3.163189.xyz/live/cwjd/stream.m3u8
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
@@ -321,6 +332,7 @@ iHOT爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123562
 台球,https://hls-gateway.vpstv.net/streams/708855.m3u8
 台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
 台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
+台球,http://www.qfly9236.cn:8888/rtp/239.253.93.231:6409
 
 📡卫视频道,#genre#
 安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391
@@ -782,30 +794,47 @@ iHOT爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123562
 金庸武侠,https://live.metshop.top/huya/11342435
 爱情公寓,https://live.metshop.top/huya/11336726
 篮球人物,https://goodiptv.club/douyu/8434598
+篮球人物,https://live.ottiptv.cc/douyu/8434598
 史君说剧,https://www.goodiptv.club/douyu/9419771
 史君说剧,https://goodiptv.club/douyu/9419771
+史君说剧,https://live.ottiptv.cc/douyu/9419771
 长片短解,https://www.goodiptv.club/douyu/9410946
 长片短解,https://goodiptv.club/douyu/9410946
+长片短解,https://live.ottiptv.cc/douyu/9410946
 拳叔二次元,https://goodiptv.club/douyu/9484105
+拳叔二次元,https://live.ottiptv.cc/douyu/9484105
 老邪说电影,https://www.goodiptv.club/douyu/9222870
 老邪说电影,https://goodiptv.club/douyu/9222870
+老邪说电影,https://live.ottiptv.cc/douyu/9222870
 百晓生说剧,https://www.goodiptv.club/douyu/9649681
 百晓生说剧,https://goodiptv.club/douyu/9649681
+百晓生说剧,https://live.ottiptv.cc/douyu/9649681
 小司马说剧,https://goodiptv.club/douyu/9660127
+小司马说剧,https://live.ottiptv.cc/douyu/9660127
 星君说电影,https://goodiptv.club/douyu/8014467
+星君说电影,https://live.ottiptv.cc/douyu/8014467
 牛叔说电影,https://goodiptv.club/douyu/2758565
+牛叔说电影,https://live.ottiptv.cc/douyu/2758565
 侃片大师兄,https://goodiptv.club/douyu/9338839
+侃片大师兄,https://live.ottiptv.cc/douyu/9338839
 虫哥说电影,https://www.goodiptv.club/douyu/8915074
 虫哥说电影,https://goodiptv.club/douyu/8915074
+虫哥说电影,https://live.ottiptv.cc/douyu/8915074
 电影迷小雅,https://www.goodiptv.club/douyu/9639225
 电影迷小雅,https://goodiptv.club/douyu/9639225
+电影迷小雅,https://live.ottiptv.cc/douyu/9639225
 1900影剧室,https://goodiptv.club/douyu/7796193
+1900影剧室,https://live.ottiptv.cc/douyu/7796193
 刘老师说电影,https://goodiptv.club/douyu/8317926
+刘老师说电影,https://live.ottiptv.cc/douyu/8317926
 科幻Fans布玛,https://www.goodiptv.club/douyu/3508304
 科幻Fans布玛,https://goodiptv.club/douyu/3508304
+科幻Fans布玛,https://live.ottiptv.cc/douyu/3508304
 小片片说大片,https://www.goodiptv.club/douyu/4258555
 小片片说大片,https://goodiptv.club/douyu/4258555
+小片片说大片,https://live.ottiptv.cc/douyu/4258555
 火龙果说电影,https://goodiptv.club/douyu/9559158
+火龙果说电影,https://live.ottiptv.cc/douyu/9559158
 
 ☘️广东频道,#genre#
 广东珠江,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010091
@@ -3157,6 +3186,7 @@ CCTV-5+,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/
 风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
 风云足球,https://hls-gateway.vpstv.net/streams/708859.m3u8
 风云足球,https://cc06.tv12.xyz/41.m3u8
+风云足球,http://www.qfly9236.cn:8888/rtp/239.253.92.110:8061
 魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
 魅力足球,http://gat.bkpcp.top/ymg.php?id=mlzq
 魅力足球,http://goo.bkpcp.top/mg/mlzq
@@ -3331,6 +3361,7 @@ CCTV-15,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3
 CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
 风云音乐,http://iptv.666230.xyz/iptv/jsyd.php/G_FENGYUNYY-CQ
+风云音乐,http://www.qfly9236.cn:8888/rtp/239.253.92.111:8060
 音乐广播,https://tv-1.iill.top/fm/552
 音乐广播,https://tv.iill.top/fm/552&token=7c908a370d95d78e90a9d2ba4007e5185038b0ceac7435ba90e72c77cc035ff6
 音乐广播,https://tv.iill.top/fm/552&token=074c3dfc2f95090e006ab15f0d86b1aaef70b389a934b096ad5e6674b5724d0d
