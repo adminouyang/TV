@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260218225408 +0800">
+<tv date="20260219110416 +0800">
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -23410,7 +23410,7 @@
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
 	<programme channel="嘉佳卡通" start="20260219000000 +0800" stop="20260219000300 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(39)</title>
+		<title lang="zh">开始</title>
 	</programme>
 	<programme channel="嘉佳卡通" start="20260219000300 +0800" stop="20260219001500 +0800">
 		<title lang="zh">喜羊羊狂野新宇宙(51)</title>
@@ -29442,14 +29442,14 @@
 	<channel id="重温经典">
 		<display-name lang="zh">重温经典</display-name>
 	</channel>
-	<programme channel="重温经典" start="20260219000000 +0800" stop="20260219031900 +0800">
-		<title lang="zh">结束</title>
+	<programme channel="重温经典" start="20260219000000 +0800" stop="20260219032000 +0800">
+		<title lang="zh">开始</title>
 	</programme>
-	<programme channel="重温经典" start="20260219031900 +0800" stop="20260219040000 +0800">
-		<title lang="zh">结束</title>
+	<programme channel="重温经典" start="20260219032000 +0800" stop="20260219040000 +0800">
+		<title lang="zh">开始</title>
 	</programme>
 	<programme channel="重温经典" start="20260219040000 +0800" stop="20260219060000 +0800">
-		<title lang="zh">结束</title>
+		<title lang="zh">开始</title>
 	</programme>
 	<programme channel="重温经典" start="20260219060000 +0800" stop="20260219061100 +0800">
 		<title lang="zh">三十六个字</title>
@@ -32310,6 +32310,75 @@
 	<channel id="iHOT爱玩具">
 		<display-name lang="zh">iHOT爱玩具</display-name>
 	</channel>
+	<programme channel="iHOT爱玩具" start="20260219000000 +0800" stop="20260219000300 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219000300 +0800" stop="20260219001800 +0800">
+		<title lang="zh">羊羊小侦探(6)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219001800 +0800" stop="20260219003300 +0800">
+		<title lang="zh">十二生肖之龙行天下(17)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219003300 +0800" stop="20260219004800 +0800">
+		<title lang="zh">十二生肖之龙行天下(18)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219004800 +0800" stop="20260219010300 +0800">
+		<title lang="zh">十二生肖之龙行天下(19)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219010300 +0800" stop="20260219011800 +0800">
+		<title lang="zh">十二生肖之龙行天下(20)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219011800 +0800" stop="20260219014100 +0800">
+		<title lang="zh">爆裂飞车2(19)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219014100 +0800" stop="20260219020400 +0800">
+		<title lang="zh">爆裂飞车2(20)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219020400 +0800" stop="20260219022700 +0800">
+		<title lang="zh">爆裂飞车2(21)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219022700 +0800" stop="20260219025000 +0800">
+		<title lang="zh">爆裂飞车2(22)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219025000 +0800" stop="20260219031300 +0800">
+		<title lang="zh">爆裂飞车2(23)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219031300 +0800" stop="20260219033600 +0800">
+		<title lang="zh">爆裂飞车2(24)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219033600 +0800" stop="20260219035100 +0800">
+		<title lang="zh">羊羊小侦探(3)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219035100 +0800" stop="20260219040600 +0800">
+		<title lang="zh">羊羊小侦探(4)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219040600 +0800" stop="20260219042100 +0800">
+		<title lang="zh">羊羊小侦探(5)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219042100 +0800" stop="20260219043600 +0800">
+		<title lang="zh">羊羊小侦探(6)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219043600 +0800" stop="20260219045100 +0800">
+		<title lang="zh">十二生肖之龙行天下(17)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219045100 +0800" stop="20260219050600 +0800">
+		<title lang="zh">十二生肖之龙行天下(18)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219050600 +0800" stop="20260219052100 +0800">
+		<title lang="zh">十二生肖之龙行天下(19)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219052100 +0800" stop="20260219053600 +0800">
+		<title lang="zh">十二生肖之龙行天下(20)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219053600 +0800" stop="20260219055900 +0800">
+		<title lang="zh">爆裂飞车2(19)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219055900 +0800" stop="20260219062200 +0800">
+		<title lang="zh">爆裂飞车2(20)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260219062200 +0800" stop="20260219235959 +0800">
+		<title lang="zh">爆裂飞车2(21)</title>
+	</programme>
 	<channel id="iHOT爱浪漫">
 		<display-name lang="zh">iHOT爱浪漫</display-name>
 	</channel>
