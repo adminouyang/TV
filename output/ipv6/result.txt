@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-02-20 18:58:18,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-02-21 06:45:58,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -727,49 +727,63 @@ iHOT爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123562
 西游记,http://cdn.jdshipin.com:8880/huya.php?id=30080242
 西游记,https://live.ottiptv.cc/huya/26355861
 西游记,https://live.metshop.top/huya/26355861
+西游记,http://cdn.jdshipin.com:8880/huya.php?id=26355861
 西游记2,https://www.4k-av.com/tv/106856-journey-to-the-west-ep02/720P/wxqogb.m3u8
 西游记2,https://live.metshop.top/huya/29465859
+西游记2,http://cdn.jdshipin.com:8880/huya.php?id=29465859
 笑看风云,https://live.iill.top/huya.php?id=23865058
 笑看风云,https://live.iill.top/huya/29465858
 笑看风云,http://live.iill.top/huya.php?id=23865058
 笑看风云,https://live.metshop.top/huya/29465858
+笑看风云,http://cdn.jdshipin.com:8880/huya.php?id=29465858
 陀枪师姐,https://live.metshop.top/huya/29465857
+陀枪师姐,http://cdn.jdshipin.com:8880/huya.php?id=29465857
 刑事侦缉档案,http://live.iill.top/huya.php?id=23734169
 刑事侦缉档案,https://live.iill.top/huya.php?id=23734169
 刑事侦缉档案,https://live.metshop.top/huya/29465856
+刑事侦缉档案,http://cdn.jdshipin.com:8880/huya.php?id=29465856
 妙手仁心,https://live.iill.top/huya/29465853
 妙手仁心,https://live.iill.top/huya.php?id=23829543
 妙手仁心,http://live.iill.top/huya.php?id=23829543
 妙手仁心,https://live.metshop.top/huya/29465853
+妙手仁心,http://cdn.jdshipin.com:8880/huya.php?id=29465853
 扫黄先锋,https://live.metshop.top/huya/23903196
 扫黄先锋,http://live.iill.top/huya.php?id=23903196
 扫黄先锋,https://live.iill.top/huya.php?id=23903196
 扫黄先锋,https://live.iill.top/huya/29465855
 扫黄先锋,https://live.metshop.top/huya/29465855
+扫黄先锋,http://cdn.jdshipin.com:8880/huya.php?id=29465855
 洗冤录,https://live.iill.top/huya.php?id=23903130
 洗冤录,http://live.iill.top/huya.php?id=23903130
 洗冤录,https://live.iill.top/huya/29465851
 洗冤录,https://live.metshop.top/huya/29465851
+洗冤录,http://cdn.jdshipin.com:8880/huya.php?id=29465851
 封神榜,http://www.clmy.cc:35455/yy/1353426319
 封神榜,https://live.metshop.top/huya/29465849
+封神榜,http://cdn.jdshipin.com:8880/huya.php?id=29465849
 楚汉骄雄,https://live.iill.top/huya.php?id=23740156
 楚汉骄雄,http://live.iill.top/huya.php?id=23740156
 楚汉骄雄,https://live.iill.top/huya/29465854
 楚汉骄雄,https://live.metshop.top/huya/29465854
+楚汉骄雄,http://cdn.jdshipin.com:8880/huya.php?id=29465854
 金枝欲孽,https://live.iill.top/huya.php?id=23865036
 金枝欲孽,http://live.iill.top/huya.php?id=23865036
 金枝欲孽,https://live.iill.top/huya/23865036
 金枝欲孽,https://live.metshop.top/huya/29465847
+金枝欲孽,http://cdn.jdshipin.com:8880/huya.php?id=29465847
 大唐双龙传,https://live.metshop.top/huya/29465850
+大唐双龙传,http://cdn.jdshipin.com:8880/huya.php?id=29465850
 天龙八部,http://www.clmy.cc:35455/yy/1355067965
 天龙八部,https://live.metshop.top/huya/23903123
 天龙八部,https://live.metshop.top/huya/20985816
+天龙八部,http://cdn.jdshipin.com:8880/huya.php?id=20985816
 
 #斗鱼,#genre#
 周星驰,https://live.ottiptv.cc/huya/11342412
 刘德华,https://stream1.freetv.fun/liu-de-hua-2.ctv
 刘德华,https://live.iill.top/huya/11342424
 庆余年,https://live.metshop.top/huya/11352960
+庆余年,http://cdn.jdshipin.com:8880/huya.php?id=11352960
 欢乐综艺,https://www.goodiptv.club/douyu/131977
 欢乐综艺,https://live.ottiptv.cc/douyu/131977
 万合出品,https://live.ottiptv.cc/douyu/9220456
@@ -794,7 +808,9 @@ iHOT爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123562
 古装神剧,https://live.metshop.top/douyu/338759
 热门港剧,https://live.ottiptv.cc/douyu/5522351
 金庸武侠,https://live.metshop.top/huya/11342435
+金庸武侠,http://cdn.jdshipin.com:8880/huya.php?id=11342435
 爱情公寓,https://live.metshop.top/huya/11336726
+爱情公寓,http://cdn.jdshipin.com:8880/huya.php?id=11336726
 篮球人物,https://goodiptv.club/douyu/8434598
 篮球人物,https://live.ottiptv.cc/douyu/8434598
 史君说剧,https://www.goodiptv.club/douyu/9419771
@@ -3328,13 +3344,16 @@ CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
 河北少儿科教,https://stream1.freetv.fun/he-bei-shao-er-ke-jiao-17.ctv
 七龙珠,https://live.ottiptv.cc/huya/11601966
 七龙珠,https://live.metshop.top/huya/11601966
+七龙珠,http://cdn.jdshipin.com:8880/huya.php?id=11601966
 火影忍者,http://cdn.jdshipin.com:8880/huya.php?id=29465866
 海绵宝宝,https://live.metshop.top/douyu/3949681
 中华小当家,https://live.metshop.top/huya/11342413
 中华小当家,https://live.iill.top/huya/11342413
+中华小当家,http://cdn.jdshipin.com:8880/huya.php?id=11342413
 猫和老鼠,https://live.iill.top/huya/11352879
 猫和老鼠,http://live.iill.top/huya.php?id=11352879
 猫和老鼠,https://live.metshop.top/huya/11352879
+猫和老鼠,http://cdn.jdshipin.com:8880/huya.php?id=11352879
 经典动漫,http://luobo.bkpcp.top/yy/24180320
 经典动漫,https://www.goodiptv.club/yy/22777075
 漫画解说,http://luobo.bkpcp.top/yy/1382735568
@@ -3385,19 +3404,24 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 笑傲江湖,http://live.iill.top/yy.php?id=1354282410
 笑傲江湖,https://live.metshop.top/huya/26355790
 笑傲江湖,https://live.metshop.top/huya/23865142
+笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=26355790
+笑傲江湖,http://cdn.jdshipin.com:8880/huya.php?id=23865142
 天龙八部,http://www.clmy.cc:35455/yy/1355067965
 天龙八部,https://live.metshop.top/huya/23903123
 天龙八部,http://live.iill.top/yy.php?id=1351814644
 天龙八部,https://live.metshop.top/huya/20985816
+天龙八部,http://cdn.jdshipin.com:8880/huya.php?id=20985816
 鹿鼎记,http://live.iill.top/yy.php?id=1382704650
 仙剑奇侠传,http://live.iill.top/yy.php?id=1382749903
 西游记,https://live.iill.top/huya/26355861
 西游记,http://cdn.jdshipin.com:8880/huya.php?id=30080242
 西游记,https://live.ottiptv.cc/huya/26355861
 西游记,https://live.metshop.top/huya/26355861
+西游记,http://cdn.jdshipin.com:8880/huya.php?id=26355861
 三国演义,https://live.iill.top/huya/11602081
 三国演义,http://live.iill.top/yy.php?id=1354936241
 三国演义,https://live.metshop.top/huya/11602081
+三国演义,http://cdn.jdshipin.com:8880/huya.php?id=11602081
 水浒传,http://www.clmy.cc:35455/yy/1353873252
 新白娘子传奇,http://lu.wqwqwq.sbs/yy/1354490667
 新白娘子传奇,http://luobo.bkpcp.top/yy/1354490667
@@ -3407,7 +3431,9 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 封神榜,http://www.clmy.cc:35455/yy/1353426319
 封神榜,http://live.iill.top/yy.php?id=1353426319
 封神榜,https://live.metshop.top/huya/29465849
+封神榜,http://cdn.jdshipin.com:8880/huya.php?id=29465849
 上海滩,http://luobo.bkpcp.top/yy/1382745184
 上海滩,http://live.iill.top/yy.php?id=1382745184
 射雕英雄传,http://live.iill.top/yy.php?id=1354210357
 射雕英雄传,https://live.metshop.top/huya/23824164
+射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
