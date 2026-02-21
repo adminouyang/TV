@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260220224557 +0800">
+<tv date="20260221104736 +0800">
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -21957,16 +21957,16 @@
 	<programme channel="西藏卫视" start="20260221061300 +0800" stop="20260221070000 +0800">
 		<title lang="zh">战将(13)</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260221070000 +0800" stop="20260221070200 +0800">
+	<programme channel="西藏卫视" start="20260221070000 +0800" stop="20260221070100 +0800">
 		<title lang="zh">中华人民共和国国歌</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260221070200 +0800" stop="20260221074400 +0800">
+	<programme channel="西藏卫视" start="20260221070100 +0800" stop="20260221074600 +0800">
 		<title lang="zh">战将(14)</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260221074400 +0800" stop="20260221081500 +0800">
+	<programme channel="西藏卫视" start="20260221074600 +0800" stop="20260221081800 +0800">
 		<title lang="zh">动画乐园</title>
 	</programme>
-	<programme channel="西藏卫视" start="20260221081500 +0800" stop="20260221083000 +0800">
+	<programme channel="西藏卫视" start="20260221081800 +0800" stop="20260221083000 +0800">
 		<title lang="zh">跟我学藏语</title>
 	</programme>
 	<programme channel="西藏卫视" start="20260221083000 +0800" stop="20260221090100 +0800">
@@ -21991,7 +21991,7 @@
 		<title lang="zh">午间新闻</title>
 	</programme>
 	<programme channel="西藏卫视" start="20260221131800 +0800" stop="20260221140300 +0800">
-		<title lang="zh">上甘岭(8)</title>
+		<title lang="zh">上甘岭(5)</title>
 	</programme>
 	<programme channel="西藏卫视" start="20260221140300 +0800" stop="20260221150300 +0800">
 		<title lang="zh">2026藏历新年联欢晚会</title>
@@ -23455,7 +23455,7 @@
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
 	<programme channel="嘉佳卡通" start="20260221000000 +0800" stop="20260221000700 +0800">
-		<title lang="zh">猪猪侠之竞速小英雄Ⅸ(16)</title>
+		<title lang="zh">开始</title>
 	</programme>
 	<programme channel="嘉佳卡通" start="20260221000700 +0800" stop="20260221002000 +0800">
 		<title lang="zh">喜羊羊奇侠大营救(47)</title>
@@ -32373,6 +32373,33 @@
 	<channel id="iHOT爱玩具">
 		<display-name lang="zh">iHOT爱玩具</display-name>
 	</channel>
+	<programme channel="iHOT爱玩具" start="20260221000000 +0800" stop="20260221000300 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260221000300 +0800" stop="20260221001800 +0800">
+		<title lang="zh">十二生肖之龙行天下(28)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260221001800 +0800" stop="20260221003100 +0800">
+		<title lang="zh">超级飞侠第十四季(5)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260221003100 +0800" stop="20260221004400 +0800">
+		<title lang="zh">超级飞侠第十四季(6)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260221004400 +0800" stop="20260221005700 +0800">
+		<title lang="zh">超级飞侠第十四季(7)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260221005700 +0800" stop="20260221011000 +0800">
+		<title lang="zh">超级飞侠第十四季(8)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260221011000 +0800" stop="20260221012300 +0800">
+		<title lang="zh">超级飞侠第十四季(9)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260221012300 +0800" stop="20260221013600 +0800">
+		<title lang="zh">超级飞侠第十四季(10)</title>
+	</programme>
+	<programme channel="iHOT爱玩具" start="20260221013600 +0800" stop="20260221235959 +0800">
+		<title lang="zh">羊羊小侦探(11)</title>
+	</programme>
 	<channel id="iHOT爱浪漫">
 		<display-name lang="zh">iHOT爱浪漫</display-name>
 	</channel>
