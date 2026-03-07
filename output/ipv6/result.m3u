@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/adminouyang/TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-07 06:46:00
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-07 18:43:25
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1415,20 +1415,74 @@ https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8
 https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/星空卫视.png" group-title="📡卫视频道",星空卫视
 http://tv123.vvvv.ee/live.php/?ch=214a0f97993
+#EXTINF:-1 tvg-name="电影_王晶" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_王晶.png" group-title="#虎牙",电影_王晶
+https://lbds.us.ci/11602058
+#EXTINF:-1 tvg-name="电影_漫威" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_漫威.png" group-title="#虎牙",电影_漫威
+https://lbds.us.ci/11602034
+#EXTINF:-1 tvg-name="电影_宇宙" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_宇宙.png" group-title="#虎牙",电影_宇宙
+https://lbds.us.ci/11342428
+#EXTINF:-1 tvg-name="电影_警匪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_警匪.png" group-title="#虎牙",电影_警匪
+https://lbds.us.ci/11352886
+#EXTINF:-1 tvg-name="电影_喜剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_喜剧.png" group-title="#虎牙",电影_喜剧
+https://lbds.us.ci/11352877
+#EXTINF:-1 tvg-name="电影_港片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_港片.png" group-title="#虎牙",电影_港片
+https://lbds.us.ci/11602043
+#EXTINF:-1 tvg-name="电影_国产" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_国产.png" group-title="#虎牙",电影_国产
+https://lbds.us.ci/11352973
+#EXTINF:-1 tvg-name="电影_许冠英" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_许冠英.png" group-title="#虎牙",电影_许冠英
+https://lbds.us.ci/11601972
 #EXTINF:-1 tvg-name="电影_斯坦森" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_斯坦森.png" group-title="#虎牙",电影_斯坦森
 https://live.metshop.top/huya/21059588
+#EXTINF:-1 tvg-name="电影_斯坦森" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_斯坦森.png" group-title="#虎牙",电影_斯坦森
+https://lbds.us.ci/21059588
 #EXTINF:-1 tvg-name="电影_八点档" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_八点档.png" group-title="#虎牙",电影_八点档
 https://live.metshop.top/huya/880261
 #EXTINF:-1 tvg-name="电影_八点档" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_八点档.png" group-title="#虎牙",电影_八点档
 http://live.metshop.top/huya/880261?cdn=alicdn
+#EXTINF:-1 tvg-name="电影_八点档" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_八点档.png" group-title="#虎牙",电影_八点档
+https://lbds.us.ci/880261
+#EXTINF:-1 tvg-name="电影_灾难片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_灾难片.png" group-title="#虎牙",电影_灾难片
+https://lbds.us.ci/11602075
 #EXTINF:-1 tvg-name="电影_古装片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_古装片.png" group-title="#虎牙",电影_古装片
 https://live.metshop.top/huya/11336590
+#EXTINF:-1 tvg-name="电影_古装片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_古装片.png" group-title="#虎牙",电影_古装片
+https://lbds.us.ci/11336590
+#EXTINF:-1 tvg-name="电影_高分动作" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_高分动作.png" group-title="#虎牙",电影_高分动作
+https://lbds.us.ci/11352884
+#EXTINF:-1 tvg-name="电影_欢笑影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_欢笑影院.png" group-title="#虎牙",电影_欢笑影院
+https://lbds.us.ci/11352894
 #EXTINF:-1 tvg-name="电影_国产悬疑" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_国产悬疑.png" group-title="#虎牙",电影_国产悬疑
 https://live.metshop.top/huya/11342395
+#EXTINF:-1 tvg-name="电影_国产悬疑" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_国产悬疑.png" group-title="#虎牙",电影_国产悬疑
+https://lbds.us.ci/11342395
+#EXTINF:-1 tvg-name="电影_快意江湖" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_快意江湖.png" group-title="#虎牙",电影_快意江湖
+https://lbds.us.ci/11342435
+#EXTINF:-1 tvg-name="电影_黑帮斗争" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_黑帮斗争.png" group-title="#虎牙",电影_黑帮斗争
+https://lbds.us.ci/11342419
 #EXTINF:-1 tvg-name="电影_嫣然影厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_嫣然影厅.png" group-title="#虎牙",电影_嫣然影厅
 http://live.metshop.top/huya/11601977?cdn=alicdn
+#EXTINF:-1 tvg-name="电影_嫣然影厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_嫣然影厅.png" group-title="#虎牙",电影_嫣然影厅
+https://lbds.us.ci/11601977
+#EXTINF:-1 tvg-name="电影_女神系列" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_女神系列.png" group-title="#虎牙",电影_女神系列
+https://lbds.us.ci/11336571
+#EXTINF:-1 tvg-name="电影_经典港片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_经典港片.png" group-title="#虎牙",电影_经典港片
+https://lbds.us.ci/11352965
+#EXTINF:-1 tvg-name="电影_镖行天下" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_镖行天下.png" group-title="#虎牙",电影_镖行天下
+https://lbds.us.ci/11352969
 #EXTINF:-1 tvg-name="电影_蘑菇影厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_蘑菇影厅.png" group-title="#虎牙",电影_蘑菇影厅
 https://live.metshop.top/huya/11601981
+#EXTINF:-1 tvg-name="电影_蘑菇影厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电影_蘑菇影厅.png" group-title="#虎牙",电影_蘑菇影厅
+https://lbds.us.ci/11601981
+#EXTINF:-1 tvg-name="剧集_雍正王朝" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/剧集_雍正王朝.png" group-title="#虎牙",剧集_雍正王朝
+https://lbds.us.ci/11342439
+#EXTINF:-1 tvg-name="剧集_家有儿女" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/剧集_家有儿女.png" group-title="#虎牙",剧集_家有儿女
+https://lbds.us.ci/11352872
+#EXTINF:-1 tvg-name="剧集_武林外传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/剧集_武林外传.png" group-title="#虎牙",剧集_武林外传
+https://lbds.us.ci/21059598
+#EXTINF:-1 tvg-name="剧集_邻里一家亲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/剧集_邻里一家亲.png" group-title="#虎牙",剧集_邻里一家亲
+https://lbds.us.ci/11342426
+#EXTINF:-1 tvg-name="搞笑_陈翔六点半" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/搞笑_陈翔六点半.png" group-title="#虎牙",搞笑_陈翔六点半
+https://lbds.us.ci/11274154
 #EXTINF:-1 tvg-name="西游记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记.png" group-title="#虎牙",西游记
 https://live.iill.top/huya/26355861
 #EXTINF:-1 tvg-name="西游记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记.png" group-title="#虎牙",西游记
@@ -1439,6 +1493,8 @@ https://live.ottiptv.cc/huya/26355861
 https://live.metshop.top/huya/26355861
 #EXTINF:-1 tvg-name="西游记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记.png" group-title="#虎牙",西游记
 http://cdn.jdshipin.com:8880/huya.php?id=26355861
+#EXTINF:-1 tvg-name="西游记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记.png" group-title="#虎牙",西游记
+https://lbds.us.ci/26355861
 #EXTINF:-1 tvg-name="西游记2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记2.png" group-title="#虎牙",西游记2
 https://www.4k-av.com/tv/106856-journey-to-the-west-ep02/720P/wxqogb.m3u8
 #EXTINF:-1 tvg-name="西游记2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记2.png" group-title="#虎牙",西游记2
@@ -1447,6 +1503,10 @@ https://live.metshop.top/huya/29465859
 http://cdn.jdshipin.com:8880/huya.php?id=29465859
 #EXTINF:-1 tvg-name="西游记2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记2.png" group-title="#虎牙",西游记2
 https://live.ottiptv.cc/huya/29465859
+#EXTINF:-1 tvg-name="西游记2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记2.png" group-title="#虎牙",西游记2
+https://lbds.us.ci/29465859
+#EXTINF:-1 tvg-name="大宋提刑官" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大宋提刑官.png" group-title="#虎牙",大宋提刑官
+https://lbds.us.ci/26355856
 #EXTINF:-1 tvg-name="笑看风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑看风云.png" group-title="#虎牙",笑看风云
 https://live.iill.top/huya.php?id=23865058
 #EXTINF:-1 tvg-name="笑看风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑看风云.png" group-title="#虎牙",笑看风云
@@ -1459,6 +1519,8 @@ https://live.metshop.top/huya/29465858
 http://cdn.jdshipin.com:8880/huya.php?id=29465858
 #EXTINF:-1 tvg-name="笑看风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑看风云.png" group-title="#虎牙",笑看风云
 https://live.ottiptv.cc/huya/29465858
+#EXTINF:-1 tvg-name="笑看风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/笑看风云.png" group-title="#虎牙",笑看风云
+https://lbds.us.ci/29465858
 #EXTINF:-1 tvg-name="陀枪师姐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陀枪师姐.png" group-title="#虎牙",陀枪师姐
 https://live.metshop.top/huya/29465857
 #EXTINF:-1 tvg-name="陀枪师姐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陀枪师姐.png" group-title="#虎牙",陀枪师姐
@@ -1475,6 +1537,8 @@ https://live.metshop.top/huya/29465856
 http://cdn.jdshipin.com:8880/huya.php?id=29465856
 #EXTINF:-1 tvg-name="刑事侦缉档案" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/刑事侦缉档案.png" group-title="#虎牙",刑事侦缉档案
 https://live.ottiptv.cc/huya/29465856
+#EXTINF:-1 tvg-name="刑事侦缉档案" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/刑事侦缉档案.png" group-title="#虎牙",刑事侦缉档案
+https://lbds.us.ci/29465856
 #EXTINF:-1 tvg-name="妙手仁心" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/妙手仁心.png" group-title="#虎牙",妙手仁心
 https://live.iill.top/huya/29465853
 #EXTINF:-1 tvg-name="妙手仁心" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/妙手仁心.png" group-title="#虎牙",妙手仁心
@@ -1487,6 +1551,10 @@ https://live.metshop.top/huya/29465853
 http://cdn.jdshipin.com:8880/huya.php?id=29465853
 #EXTINF:-1 tvg-name="妙手仁心" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/妙手仁心.png" group-title="#虎牙",妙手仁心
 https://live.ottiptv.cc/huya/29465853
+#EXTINF:-1 tvg-name="妙手仁心" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/妙手仁心.png" group-title="#虎牙",妙手仁心
+https://lbds.us.ci/29465853
+#EXTINF:-1 tvg-name="野蛮奶奶" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/野蛮奶奶.png" group-title="#虎牙",野蛮奶奶
+https://lbds.us.ci/23863796
 #EXTINF:-1 tvg-name="扫黄先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/扫黄先锋.png" group-title="#虎牙",扫黄先锋
 https://live.metshop.top/huya/23903196
 #EXTINF:-1 tvg-name="扫黄先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/扫黄先锋.png" group-title="#虎牙",扫黄先锋
@@ -1501,6 +1569,8 @@ https://live.metshop.top/huya/29465855
 http://cdn.jdshipin.com:8880/huya.php?id=29465855
 #EXTINF:-1 tvg-name="扫黄先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/扫黄先锋.png" group-title="#虎牙",扫黄先锋
 https://live.ottiptv.cc/huya/29465855
+#EXTINF:-1 tvg-name="扫黄先锋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/扫黄先锋.png" group-title="#虎牙",扫黄先锋
+https://lbds.us.ci/29465855
 #EXTINF:-1 tvg-name="洗冤录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/洗冤录.png" group-title="#虎牙",洗冤录
 https://live.iill.top/huya.php?id=23903130
 #EXTINF:-1 tvg-name="洗冤录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/洗冤录.png" group-title="#虎牙",洗冤录
@@ -1513,6 +1583,10 @@ https://live.metshop.top/huya/29465851
 http://cdn.jdshipin.com:8880/huya.php?id=29465851
 #EXTINF:-1 tvg-name="洗冤录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/洗冤录.png" group-title="#虎牙",洗冤录
 https://live.ottiptv.cc/huya/29465851
+#EXTINF:-1 tvg-name="洗冤录" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/洗冤录.png" group-title="#虎牙",洗冤录
+https://lbds.us.ci/29465851
+#EXTINF:-1 tvg-name="九阴真经" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/九阴真经.png" group-title="#虎牙",九阴真经
+https://lbds.us.ci/23824164
 #EXTINF:-1 tvg-name="封神榜" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/封神榜.png" group-title="#虎牙",封神榜
 http://www.clmy.cc:35455/yy/1353426319
 #EXTINF:-1 tvg-name="封神榜" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/封神榜.png" group-title="#虎牙",封神榜
@@ -1533,6 +1607,8 @@ https://live.metshop.top/huya/29465854
 http://cdn.jdshipin.com:8880/huya.php?id=29465854
 #EXTINF:-1 tvg-name="楚汉骄雄" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/楚汉骄雄.png" group-title="#虎牙",楚汉骄雄
 https://live.ottiptv.cc/huya/29465854
+#EXTINF:-1 tvg-name="楚汉骄雄" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/楚汉骄雄.png" group-title="#虎牙",楚汉骄雄
+https://lbds.us.ci/29465854
 #EXTINF:-1 tvg-name="金枝欲孽" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金枝欲孽.png" group-title="#虎牙",金枝欲孽
 https://live.iill.top/huya.php?id=23865036
 #EXTINF:-1 tvg-name="金枝欲孽" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金枝欲孽.png" group-title="#虎牙",金枝欲孽
@@ -1545,6 +1621,8 @@ https://live.metshop.top/huya/29465847
 http://cdn.jdshipin.com:8880/huya.php?id=29465847
 #EXTINF:-1 tvg-name="金枝欲孽" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金枝欲孽.png" group-title="#虎牙",金枝欲孽
 https://live.ottiptv.cc/huya/29465847
+#EXTINF:-1 tvg-name="金枝欲孽" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金枝欲孽.png" group-title="#虎牙",金枝欲孽
+https://lbds.us.ci/29465847
 #EXTINF:-1 tvg-name="大唐双龙传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大唐双龙传.png" group-title="#虎牙",大唐双龙传
 https://live.metshop.top/huya/29465850
 #EXTINF:-1 tvg-name="大唐双龙传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大唐双龙传.png" group-title="#虎牙",大唐双龙传
@@ -6723,6 +6801,8 @@ https://live.ottiptv.cc/huya/26355861
 https://live.metshop.top/huya/26355861
 #EXTINF:-1 tvg-name="西游记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记.png" group-title="🏛经典剧场",西游记
 http://cdn.jdshipin.com:8880/huya.php?id=26355861
+#EXTINF:-1 tvg-name="西游记" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西游记.png" group-title="🏛经典剧场",西游记
+https://lbds.us.ci/26355861
 #EXTINF:-1 tvg-name="三国演义" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三国演义.png" group-title="🏛经典剧场",三国演义
 https://live.iill.top/huya/11602081
 #EXTINF:-1 tvg-name="三国演义" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/三国演义.png" group-title="🏛经典剧场",三国演义
