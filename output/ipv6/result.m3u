@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/adminouyang/TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-13 06:45:25
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-13 18:54:45
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1715,6 +1715,8 @@ https://live.metshop.top/douyu/338759
 https://live.ottiptv.cc/douyu/5522351
 #EXTINF:-1 tvg-name="热门港剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/热门港剧.png" group-title="#斗鱼",热门港剧
 http://www.goodiptv.club/douyu/5522351
+#EXTINF:-1 tvg-name="热门港剧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/热门港剧.png" group-title="#斗鱼",热门港剧
+https://goodiptv.club/douyu/5522351
 #EXTINF:-1 tvg-name="金庸武侠" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金庸武侠.png" group-title="#斗鱼",金庸武侠
 https://live.metshop.top/huya/11342435
 #EXTINF:-1 tvg-name="金庸武侠" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金庸武侠.png" group-title="#斗鱼",金庸武侠
