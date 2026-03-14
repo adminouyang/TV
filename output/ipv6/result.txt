@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-14 06:46:40,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-03-14 18:49:26,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -862,6 +862,7 @@ iHOT爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123562
 刀刀影院,http://www.goodiptv.club/douyu/747764
 贝爷贰厅,https://www.goodiptv.club/douyu/4332
 贝爷贰厅,https://live.ottiptv.cc/douyu/4332
+贝爷贰厅,https://goodiptv.club/douyu/4332
 凌儿影院,https://www.goodiptv.club/douyu/1377142
 凌儿影院,https://live.ottiptv.cc/douyu/1377142
 可乐影视,https://live.ottiptv.cc/douyu/20415

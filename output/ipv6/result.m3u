@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/adminouyang/TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-14 06:46:40
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-03-14 18:49:26
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1701,6 +1701,8 @@ http://www.goodiptv.club/douyu/747764
 https://www.goodiptv.club/douyu/4332
 #EXTINF:-1 tvg-name="贝爷贰厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贝爷贰厅.png" group-title="#斗鱼",贝爷贰厅
 https://live.ottiptv.cc/douyu/4332
+#EXTINF:-1 tvg-name="贝爷贰厅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/贝爷贰厅.png" group-title="#斗鱼",贝爷贰厅
+https://goodiptv.club/douyu/4332
 #EXTINF:-1 tvg-name="凌儿影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凌儿影院.png" group-title="#斗鱼",凌儿影院
 https://www.goodiptv.club/douyu/1377142
 #EXTINF:-1 tvg-name="凌儿影院" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凌儿影院.png" group-title="#斗鱼",凌儿影院
