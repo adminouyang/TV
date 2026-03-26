@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-26 06:54:22,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-03-26 20:07:20,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2872,6 +2872,7 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 TVBS亚洲,https://live.tvfix.org/live/tvbs/index.m3u8
 TVBS亚洲,http://tv123.vvvv.ee/live.php/?ch=3566559b707
 TVBS亚洲,http://tv123.vvvv.ee/live.php/?ch=c9d4628a708
+TVBS亚洲,http://tv123.vvvv.ee/live.php/?ch=dbaa71a9708
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,https://stream1.freetv.fun/5335c88a9a7d8b74173b491f480d4f94e8d3bd596af54478106aa2399e6c7917.ctv
 香港卫视,https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv
