@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/adminouyang/TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-01 06:54:48
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-01 19:39:46
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1661,6 +1661,8 @@ https://live.ottiptv.cc/huya/11352960
 https://www.goodiptv.club/douyu/131977
 #EXTINF:-1 tvg-name="欢乐综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/欢乐综艺.png" group-title="#斗鱼",欢乐综艺
 https://live.ottiptv.cc/douyu/131977
+#EXTINF:-1 tvg-name="欢乐综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/欢乐综艺.png" group-title="#斗鱼",欢乐综艺
+https://goodiptv.club/douyu/131977
 #EXTINF:-1 tvg-name="万合出品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/万合出品.png" group-title="#斗鱼",万合出品
 https://live.ottiptv.cc/douyu/9220456
 #EXTINF:-1 tvg-name="万合出品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/万合出品.png" group-title="#斗鱼",万合出品
