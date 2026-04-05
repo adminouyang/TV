@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-05 07:52:03,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-04-05 18:53:24,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -2094,6 +2094,7 @@ iHOT爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123562
 青神综合,http://lmt.scqstv.com:80/live1/live1.m3u8
 内江综合,https://stream1.freetv.fun/nei-jiang-zong-he-1.m3u8
 内江综合,https://t.freetv.fun/live/nei-jiang-zong-he.m3u8
+内江综合,https://t.freetv.fun/live/nei-jiang-zong-he-2.m3u8
 山东教育,http://z.b.bkpcp.top/m.php?id=sdjy
 山东教育,http://goo.bkpcp.top/mg/sdjy
 山东教育,http://iptv.huuc.edu.cn/hls/sdetv.m3u8

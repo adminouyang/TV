@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/adminouyang/TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-05 07:52:03
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-05 18:53:24
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -4117,6 +4117,8 @@ http://lmt.scqstv.com:80/live1/live1.m3u8
 https://stream1.freetv.fun/nei-jiang-zong-he-1.m3u8
 #EXTINF:-1 tvg-name="内江综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内江综合.png" group-title="☘️四川频道",内江综合
 https://t.freetv.fun/live/nei-jiang-zong-he.m3u8
+#EXTINF:-1 tvg-name="内江综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内江综合.png" group-title="☘️四川频道",内江综合
+https://t.freetv.fun/live/nei-jiang-zong-he-2.m3u8
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东教育.png" group-title="☘️四川频道",山东教育
 http://z.b.bkpcp.top/m.php?id=sdjy
 #EXTINF:-1 tvg-name="山东教育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东教育.png" group-title="☘️四川频道",山东教育
