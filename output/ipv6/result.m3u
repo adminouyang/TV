@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/adminouyang/TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-14 07:03:56
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-14 19:23:53
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1687,6 +1687,8 @@ https://goodiptv.club/douyu/3637778
 https://live.ottiptv.cc/douyu/1226741
 #EXTINF:-1 tvg-name="粤语电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/粤语电影.png" group-title="#斗鱼",粤语电影
 https://www.goodiptv.club/douyu/1226741
+#EXTINF:-1 tvg-name="粤语电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/粤语电影.png" group-title="#斗鱼",粤语电影
+https://goodiptv.club/douyu/1226741
 #EXTINF:-1 tvg-name="动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作电影.png" group-title="#斗鱼",动作电影
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010003
 #EXTINF:-1 tvg-name="动作电影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动作电影.png" group-title="#斗鱼",动作电影
