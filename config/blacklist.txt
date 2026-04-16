@@ -3,3 +3,4 @@
 /audio/
 iptv.catvod.com
 txmov2.a.kwimgs.com
+p2.bdstatic.com
