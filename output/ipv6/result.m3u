@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/TV/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-24 06:56:02
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-04-24 19:31:06
 http://120.76.248.139/live/bfgd/4200000484.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV1
 http://120.76.248.139/live/bfgd/4200000484.m3u8
@@ -1715,8 +1715,12 @@ https://live.ottiptv.cc/yy/24066336
 http://www.goodiptv.club/douyu/3928
 #EXTINF:-1 tvg-name="神乐影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/神乐影视.png" group-title="#斗鱼",神乐影视
 https://live.ottiptv.cc/douyu/85894
+#EXTINF:-1 tvg-name="神乐影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/神乐影视.png" group-title="#斗鱼",神乐影视
+https://goodiptv.club/douyu/85894
 #EXTINF:-1 tvg-name="刀刀影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/刀刀影院.png" group-title="#斗鱼",刀刀影院
 http://www.goodiptv.club/douyu/747764
+#EXTINF:-1 tvg-name="刀刀影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/刀刀影院.png" group-title="#斗鱼",刀刀影院
+https://goodiptv.club/douyu/747764
 #EXTINF:-1 tvg-name="贝爷贰厅" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/贝爷贰厅.png" group-title="#斗鱼",贝爷贰厅
 https://www.goodiptv.club/douyu/4332
 #EXTINF:-1 tvg-name="贝爷贰厅" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/贝爷贰厅.png" group-title="#斗鱼",贝爷贰厅
