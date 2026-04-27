@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-04-27 20:21:47,http://120.76.248.139/live/bfgd/4200000484.m3u8
+2026-04-28 07:04:17,http://120.76.248.139/live/bfgd/4200000484.m3u8
 
 📺央视频道,#genre#
 CCTV1,http://120.76.248.139/live/bfgd/4200000484.m3u8
@@ -1187,6 +1187,7 @@ iHOT爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123562
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed
 龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 遂昌新闻综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+象山电视台新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-2.m3u8
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-3.m3u8
 衢江新闻综合,https://stream1.freetv.fun/qu-jiang-xin-wen-zong-he-1.m3u8
