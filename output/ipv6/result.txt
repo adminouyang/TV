@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-04 06:54:58,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-05-04 20:25:15,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -225,6 +225,7 @@ CETV4,http://120.220.44.46/923287339
 怀旧剧场,https://mursor.ottiptv.cc/mcp/hjjc.m3u8
 怀旧剧场,http://iptv.666230.xyz/iptv/jsyd.php/G_HUAIJIUJC-CQ
 怀旧剧场,http://www.qfly9236.cn:8888/rtp/239.253.92.98:6120
+怀旧剧场,https://gd202.tv1288.xyz/tsfile/live/1048_1.m3u8
 女性时尚,https://cc06.tv12.xyz/95.m3u8
 女性时尚,http://iptv.666230.xyz/iptv/jsyd.php/G_NVXINGSS-CQ
 女性时尚,http://www.qfly9236.cn:8888/rtp/239.253.92.249:6103
