@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-11 07:00:42,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-05-11 20:56:12,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -725,6 +725,7 @@ iHOT爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123562
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
 星空卫视,http://tv123.vvvv.ee/live.php/?ch=214a0f97993
+星空卫视,https://t.freetv.fun/live/xing-kong-wei-shi-1.m3u8
 
 #虎牙,#genre#
 电影_王晶,https://lbds.us.ci/11602058
@@ -1083,17 +1084,19 @@ iHOT爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123562
 浙江钱江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-1.m3u8
 浙江钱江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-2.m3u8
 浙江钱江都市,https://t.freetv.fun/live/zhe-jiang-qian-jiang-du-shi-3.m3u8
+浙江钱江台,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?fbl=
 浙江钱江台,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江钱江台,http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
 浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-1.ctv
 浙江生活,http://zwebl02.cztv.com/live/channel031080P.m3u8?auth_key=2524708799-0-0-cc09266f8e043a6df28eb148cb488d37
 浙江生活,http://ls.qingting.fm/live/1099.m3u8
 浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-4.ctv
 浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8
-浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8
 浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-3.ctv
 浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-8.ctv
 浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-7.ctv
+浙江生活,https://stream1.freetv.fun/zhe-jiang-jing-ji-sheng-huo-2.ctv
 浙江经济生活,http://zwebl02.cztv.com/live/channel031080P.m3u8?auth_key=2524708799-0-0-cc09266f8e043a6df28eb148cb488d37
 浙江经济生活,http://zhfivel02.cztv.com/channel03/1080p.m3u8?auth_key=2524708799-0-0-76c0751e0f656453baf39803124fc08a
 浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
@@ -1102,7 +1105,6 @@ iHOT爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123562
 浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-2.m3u8
 浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-3.m3u8
 浙江经济生活,https://t.freetv.fun/live/zhe-jiang-jing-ji-sheng-huo-1.m3u8
-浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江民生,https://stream1.freetv.fun/zhe-jiang-min-sheng-9.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-1.m3u8
 浙江民生,https://t.freetv.fun/live/zhe-jiang-min-sheng-3.m3u8
@@ -1179,6 +1181,7 @@ iHOT爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123562
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-9.m3u8
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-6.ctv
 浙江民生休闲,https://stream1.freetv.fun/zhe-jiang-min-sheng-9.ctv
+浙江数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8\r\n
 浙江教科影视,http://zwebl02.cztv.com/live/channel041080P.m3u8?auth_key=2524708799-0-0-f195b808217db133bfd648edc01e91fa
 浙江教科影视,http://zhfivel02.cztv.com/channel04/1080p.m3u8?auth_key=2524708799-0-0-514823d0816d4af94a9f32bd7614ed67
@@ -1250,6 +1253,7 @@ iHOT爱动漫,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123562
 新昌新闻综合,https://t.freetv.fun/live/xin-chang-xin-wen-zong-he.m3u8
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?fbl=
+数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 开化新闻综合,https://stream1.freetv.fun/kai-hua-xin-wen-zong-he-1.m3u8
 开化新闻综合,https://stream1.freetv.fun/kai-hua-xin-wen-zong-he-2.ctv
 庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
@@ -3025,6 +3029,7 @@ NewTV动作电影,http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8
 星空卫视,http://tv123.vvvv.ee/live.php/?ch=214a0f97993
+星空卫视,https://t.freetv.fun/live/xing-kong-wei-shi-1.m3u8
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-6.ctv
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-8.ctv
