@@ -9,3 +9,5 @@ https://od.lk/s/NjFfMTE2ODUzNDU1Xw/4GTVaa.txt
 http://tv123.vvvv.ee/tv.m3u
 https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
 https://raw.githubusercontent.com/yanghanhanyingshi/GYYS/refs/heads/main/best_sorted.m3u
+https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv.txt
+https://raw.githubusercontent.com/kakaxi-1/IPTV/refs/heads/main/iptv4.txt
