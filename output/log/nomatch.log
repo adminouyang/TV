@@ -435,5 +435,9 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 鹿泉二套 (576p) [Not 24/7],http://hblq.chinashadt.com:2036/live/stream:luquan2.stream/playlist.m3u8
 黑龙卫视 (1080p),http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8
 黑龙卫视 (1080p),http://223.110.245.139/PLTV/4/224/3221227492/index.m3u8
-CGTN,https://0472.org/hls/cgtn.m3u8
 黑龙卫视 (1080p),http://223.110.245.170/PLTV/3/224/3221227252/index.m3u8
+黑龙卫视 (720p),http://125.210.152.18:9090/live/HLJWSHD_H265.m3u8
+黑龙江 (1080p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
+黑龙江 (576p),http://183.207.248.71/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG
+黑龙江卫 (1080p),http://183.207.248.71/cntv/live1/HD-2500k-1080P-heilongjiangstv/HD-2500k-1080P-heilongjiangstv
+黑龙江卫视 (2160p),http://118.81.195.79:9003/hls/31/index.m3u8
