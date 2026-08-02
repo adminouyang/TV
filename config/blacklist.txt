@@ -4,3 +4,4 @@
 iptv.catvod.com
 txmov2.a.kwimgs.com
 p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com
+live.264788.xyz
