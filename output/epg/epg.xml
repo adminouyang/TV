@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260802230015 +0800">
+<tv date="20260803130208 +0800">
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -48108,99 +48108,6 @@
 	<programme channel="求索频道" start="20260802231000 +0800" stop="20260803000000 +0800">
 		<title lang="zh">鬼怪汽车工程1</title>
 	</programme>
-	<programme channel="求索频道" start="20260803000000 +0800" stop="20260803000500 +0800">
-		<title lang="zh">5分钟宣传包</title>
-	</programme>
-	<programme channel="求索频道" start="20260803000500 +0800" stop="20260803003500 +0800">
-		<title lang="zh">江南有苕溪1</title>
-	</programme>
-	<programme channel="求索频道" start="20260803003500 +0800" stop="20260803005500 +0800">
-		<title lang="zh">江南有苕溪2</title>
-	</programme>
-	<programme channel="求索频道" start="20260803005500 +0800" stop="20260803012000 +0800">
-		<title lang="zh">江南有苕溪3</title>
-	</programme>
-	<programme channel="求索频道" start="20260803012000 +0800" stop="20260803014500 +0800">
-		<title lang="zh">江南有苕溪4</title>
-	</programme>
-	<programme channel="求索频道" start="20260803014500 +0800" stop="20260803021000 +0800">
-		<title lang="zh">江南有苕溪5</title>
-	</programme>
-	<programme channel="求索频道" start="20260803021000 +0800" stop="20260803023500 +0800">
-		<title lang="zh">找寻“橡皮擦”</title>
-	</programme>
-	<programme channel="求索频道" start="20260803023500 +0800" stop="20260803030000 +0800">
-		<title lang="zh">李叔同1、2、3</title>
-	</programme>
-	<programme channel="求索频道" start="20260803030000 +0800" stop="20260803032500 +0800">
-		<title lang="zh">李叔同1、2、3</title>
-	</programme>
-	<programme channel="求索频道" start="20260803032500 +0800" stop="20260803033000 +0800">
-		<title lang="zh">李叔同1、2、3</title>
-	</programme>
-	<programme channel="求索频道" start="20260803033000 +0800" stop="20260803035500 +0800">
-		<title lang="zh">李叔同1、2、3</title>
-	</programme>
-	<programme channel="求索频道" start="20260803035500 +0800" stop="20260803042000 +0800">
-		<title lang="zh">李叔同1、2、3</title>
-	</programme>
-	<programme channel="求索频道" start="20260803042000 +0800" stop="20260803044500 +0800">
-		<title lang="zh">李叔同1、2、3</title>
-	</programme>
-	<programme channel="求索频道" start="20260803044500 +0800" stop="20260803051000 +0800">
-		<title lang="zh">李叔同1、2、3</title>
-	</programme>
-	<programme channel="求索频道" start="20260803051000 +0800" stop="20260803053500 +0800">
-		<title lang="zh">中华第一舟</title>
-	</programme>
-	<programme channel="求索频道" start="20260803053500 +0800" stop="20260803060000 +0800">
-		<title lang="zh">中华第一舟</title>
-	</programme>
-	<programme channel="求索频道" start="20260803060000 +0800" stop="20260803060500 +0800">
-		<title lang="zh">5分钟宣传包</title>
-	</programme>
-	<programme channel="求索频道" start="20260803060500 +0800" stop="20260803065500 +0800">
-		<title lang="zh">冰山寻宝梦3-1</title>
-	</programme>
-	<programme channel="求索频道" start="20260803065500 +0800" stop="20260803074500 +0800">
-		<title lang="zh">丛林动物之家3</title>
-	</programme>
-	<programme channel="求索频道" start="20260803074500 +0800" stop="20260803083500 +0800">
-		<title lang="zh">贝尔格里尔斯：险境逃生1</title>
-	</programme>
-	<programme channel="求索频道" start="20260803083500 +0800" stop="20260803092500 +0800">
-		<title lang="zh">人脑大升级1</title>
-	</programme>
-	<programme channel="求索频道" start="20260803092500 +0800" stop="20260803093000 +0800">
-		<title lang="zh">5分钟宣传包</title>
-	</programme>
-	<programme channel="求索频道" start="20260803093000 +0800" stop="20260803102000 +0800">
-		<title lang="zh">阿拉斯加置产家3-1</title>
-	</programme>
-	<programme channel="求索频道" start="20260803102000 +0800" stop="20260803111000 +0800">
-		<title lang="zh">地球大观1</title>
-	</programme>
-	<programme channel="求索频道" start="20260803111000 +0800" stop="20260803120000 +0800">
-		<title lang="zh">鬼怪汽车工程1</title>
-	</programme>
-	<programme channel="求索频道" start="20260803120000 +0800" stop="20260803120500 +0800">
-		<title lang="zh">5分钟宣传包</title>
-	</programme>
-	<programme channel="求索频道" start="20260803120500 +0800" stop="20260803125500 +0800">
-		<title lang="zh">追风部队2008-4</title>
-	</programme>
-	<programme channel="求索频道" start="20260803125500 +0800" stop="20260803134500 +0800">
-		<title lang="zh">动物之家大改造2</title>
-	</programme>
-	<programme channel="求索频道" start="20260803134500 +0800" stop="20260803143500 +0800">
-		<title lang="zh">求生一加一2-4</title>
-	</programme>
-	<programme channel="求索频道" start="20260803143500 +0800" stop="20260803152500 +0800">
-		<title lang="zh">渔人的搏斗11-1</title>
-	</programme>
-	<programme channel="求索频道" start="20260803152500 +0800" stop="20260803153000 +0800">
-		<title lang="zh">5分钟宣传包</title>
-	</programme>
 	<programme channel="求索频道" start="20260803153000 +0800" stop="20260803162000 +0800">
 		<title lang="zh">历史大发明1&amp;2</title>
 	</programme>
@@ -48236,6 +48143,135 @@
 	</programme>
 	<programme channel="求索频道" start="20260803231000 +0800" stop="20260804000000 +0800">
 		<title lang="zh">翻玩旧船艇1</title>
+	</programme>
+	<programme channel="求索频道" start="20260804000000 +0800" stop="20260804000500 +0800">
+		<title lang="zh">5分钟宣传包</title>
+	</programme>
+	<programme channel="求索频道" start="20260804000500 +0800" stop="20260804003500 +0800">
+		<title lang="zh">我们为何居于此1、2、3</title>
+	</programme>
+	<programme channel="求索频道" start="20260804003500 +0800" stop="20260804005500 +0800">
+		<title lang="zh">我们为何居于此1、2、3</title>
+	</programme>
+	<programme channel="求索频道" start="20260804005500 +0800" stop="20260804012000 +0800">
+		<title lang="zh">我与大运河1</title>
+	</programme>
+	<programme channel="求索频道" start="20260804012000 +0800" stop="20260804014500 +0800">
+		<title lang="zh">我与大运河2</title>
+	</programme>
+	<programme channel="求索频道" start="20260804014500 +0800" stop="20260804021000 +0800">
+		<title lang="zh">我与大运河3</title>
+	</programme>
+	<programme channel="求索频道" start="20260804021000 +0800" stop="20260804023500 +0800">
+		<title lang="zh">我与大运河4</title>
+	</programme>
+	<programme channel="求索频道" start="20260804023500 +0800" stop="20260804030000 +0800">
+		<title lang="zh">沈泽民1、2、3</title>
+	</programme>
+	<programme channel="求索频道" start="20260804030000 +0800" stop="20260804032500 +0800">
+		<title lang="zh">沈泽民1、2、3</title>
+	</programme>
+	<programme channel="求索频道" start="20260804032500 +0800" stop="20260804033000 +0800">
+		<title lang="zh">沈泽民1、2、3</title>
+	</programme>
+	<programme channel="求索频道" start="20260804033000 +0800" stop="20260804035500 +0800">
+		<title lang="zh">沈泽民1、2、3</title>
+	</programme>
+	<programme channel="求索频道" start="20260804035500 +0800" stop="20260804042000 +0800">
+		<title lang="zh">昂首挑战1、2、3</title>
+	</programme>
+	<programme channel="求索频道" start="20260804042000 +0800" stop="20260804044500 +0800">
+		<title lang="zh">昂首挑战1、2、3</title>
+	</programme>
+	<programme channel="求索频道" start="20260804044500 +0800" stop="20260804051000 +0800">
+		<title lang="zh">飞来峰&amp;四时城纪春</title>
+	</programme>
+	<programme channel="求索频道" start="20260804051000 +0800" stop="20260804053500 +0800">
+		<title lang="zh">飞来峰&amp;四时城纪春</title>
+	</programme>
+	<programme channel="求索频道" start="20260804053500 +0800" stop="20260804060000 +0800">
+		<title lang="zh">飞来峰&amp;四时城纪春</title>
+	</programme>
+	<programme channel="求索频道" start="20260804060000 +0800" stop="20260804060500 +0800">
+		<title lang="zh">5分钟宣传包</title>
+	</programme>
+	<programme channel="求索频道" start="20260804060500 +0800" stop="20260804065500 +0800">
+		<title lang="zh">城堡的奥秘3-1</title>
+	</programme>
+	<programme channel="求索频道" start="20260804065500 +0800" stop="20260804074500 +0800">
+		<title lang="zh">宠物淘气包3-4</title>
+	</programme>
+	<programme channel="求索频道" start="20260804074500 +0800" stop="20260804083500 +0800">
+		<title lang="zh">六千金在我家3-9</title>
+	</programme>
+	<programme channel="求索频道" start="20260804083500 +0800" stop="20260804092500 +0800">
+		<title lang="zh">不乱搞实验室5</title>
+	</programme>
+	<programme channel="求索频道" start="20260804092500 +0800" stop="20260804093000 +0800">
+		<title lang="zh">5分钟宣传包</title>
+	</programme>
+	<programme channel="求索频道" start="20260804093000 +0800" stop="20260804102000 +0800">
+		<title lang="zh">低预算造街区5</title>
+	</programme>
+	<programme channel="求索频道" start="20260804102000 +0800" stop="20260804111000 +0800">
+		<title lang="zh">宝宝震撼弹2-1</title>
+	</programme>
+	<programme channel="求索频道" start="20260804111000 +0800" stop="20260804120000 +0800">
+		<title lang="zh">翻玩旧船艇1</title>
+	</programme>
+	<programme channel="求索频道" start="20260804120000 +0800" stop="20260804120500 +0800">
+		<title lang="zh">5分钟宣传包</title>
+	</programme>
+	<programme channel="求索频道" start="20260804120500 +0800" stop="20260804125500 +0800">
+		<title lang="zh">追风部队2008-5</title>
+	</programme>
+	<programme channel="求索频道" start="20260804125500 +0800" stop="20260804134500 +0800">
+		<title lang="zh">仕盛的家庭料理1&amp;2</title>
+	</programme>
+	<programme channel="求索频道" start="20260804134500 +0800" stop="20260804143500 +0800">
+		<title lang="zh">求生一加一2-5</title>
+	</programme>
+	<programme channel="求索频道" start="20260804143500 +0800" stop="20260804152500 +0800">
+		<title lang="zh">渔人的搏斗11-2</title>
+	</programme>
+	<programme channel="求索频道" start="20260804152500 +0800" stop="20260804153000 +0800">
+		<title lang="zh">5分钟宣传包</title>
+	</programme>
+	<programme channel="求索频道" start="20260804153000 +0800" stop="20260804162000 +0800">
+		<title lang="zh">历史大发明3&amp;4</title>
+	</programme>
+	<programme channel="求索频道" start="20260804162000 +0800" stop="20260804171000 +0800">
+		<title lang="zh">荒野求生2</title>
+	</programme>
+	<programme channel="求索频道" start="20260804171000 +0800" stop="20260804180000 +0800">
+		<title lang="zh">拓荒先锋1</title>
+	</programme>
+	<programme channel="求索频道" start="20260804180000 +0800" stop="20260804180500 +0800">
+		<title lang="zh">5分钟宣传包</title>
+	</programme>
+	<programme channel="求索频道" start="20260804180500 +0800" stop="20260804185500 +0800">
+		<title lang="zh">逃生共同体4</title>
+	</programme>
+	<programme channel="求索频道" start="20260804185500 +0800" stop="20260804194500 +0800">
+		<title lang="zh">野性之夜9</title>
+	</programme>
+	<programme channel="求索频道" start="20260804194500 +0800" stop="20260804203500 +0800">
+		<title lang="zh">金矿的赌注 寒冬财运1</title>
+	</programme>
+	<programme channel="求索频道" start="20260804203500 +0800" stop="20260804212500 +0800">
+		<title lang="zh">透视人体极限1</title>
+	</programme>
+	<programme channel="求索频道" start="20260804212500 +0800" stop="20260804213000 +0800">
+		<title lang="zh">5分钟宣传包</title>
+	</programme>
+	<programme channel="求索频道" start="20260804213000 +0800" stop="20260804222000 +0800">
+		<title lang="zh">美食天堂4-10</title>
+	</programme>
+	<programme channel="求索频道" start="20260804222000 +0800" stop="20260804231000 +0800">
+		<title lang="zh">报废车的复活5-4</title>
+	</programme>
+	<programme channel="求索频道" start="20260804231000 +0800" stop="20260805000000 +0800">
+		<title lang="zh">改车特攻队3-1&amp;3-2</title>
 	</programme>
 	<channel id="江苏卫视">
 		<display-name lang="zh">江苏卫视</display-name>
