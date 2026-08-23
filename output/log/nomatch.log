@@ -95,55 +95,59 @@ Zhejiang TV International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 亳州新聞頻道 (360p),http://220.180.110.101:8083/videos/live/33/59/NC7XQdEveyncq/NC7XQdEveyncq.m3u8
 余姚姚江文化 (576p),https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
 余姚新闻综合 (576p),https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-兵团卫视 (540p) [Not 24/7],http://112.25.48.68/live/program/live/btws/1300000/mnf.m3u8
-内蒙古 (576p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8
-内蒙古卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
-内蒙古卫视 (576p),http://117.169.120.140:8080/live/neimenggustv/.m3u8
-内蒙古卫视 (576p),http://183.207.248.71/gitv/live1/G_NEIMENGGU/G_NEIMENGGU
-内蒙古卫视 (576p),http://223.110.245.173/PLTV/4/224/3221225836/index.m3u8
-农安新闻综合 [Geo-blocked],https://stream2.jlntv.cn/naxw/sd/live.m3u8
-凤凰资讯 (720p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-凤凰资讯 (576p),http://125.210.152.18:9090/live/FHZX_1200.m3u8
-利川公共 (576p) [Geo-blocked],http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lcgg.m3u8
-利川公共 (180p) [Not 24/7],http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
-利川新闻综合 (480p) [Not 24/7],http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
-前郭综合 [Geo-blocked],https://stream2.jlntv.cn/qg/sd/live.m3u8
-动画王国 (1080p),http://183.207.248.71/cntv/live1/donghuawg/donghuawg
-北京紀實 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
-北京紀實 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
-北京青年 [Not 24/7],http://ivi.bupt.edu.cn/hls/btv8.m3u8
-北碚综合 (576p) [Not 24/7],http://222.178.181.121:12034/beibei01.m3u8
-华亭电视台 (1080p),http://117.156.28.119/270000001111/1110000148/index.m3u8
-华数 (720p) [Not 24/7],http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
-南京十八 (576p),http://183.207.248.71/gitv/live1/G_NJSB/G_NJSB
-南京少儿 (720p) [Not 24/7],https://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-南阳新闻 (1080p) [Not 24/7],http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_142.m3u8
-南陽公共頻道 (1080p) [Not 24/7],http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_295.m3u8
-南陽科教頻道 (1080p) [Not 24/7],http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_296.m3u8
-厦门卫视 (576p),http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221226996/index.m3u8
-厦门卫视 (540p) [Not 24/7],http://112.25.48.68/live/program/live/xmws/1300000/mnf.m3u8
-发现之旅 (576p),http://125.210.152.18:9090/live/FXZL_750.m3u8
-吉州新聞綜合 (1080p),http://218.204.153.158/10.m3u8
-吉林市新闻综合 [Geo-blocked],https://stream2.jlntv.cn/jilin1/sd/live.m3u8
-吴江新闻综合 (720p) [Not 24/7],http://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8
-和政电视台,http://117.156.28.119/270000001111/1110000149/index.m3u8
-四川 Ⅰ 四川影视台 (720p) [Not 24/7],http://scgctvshow.sctv.com/hdlive/sctv5/index.m3u8
-四川 Ⅰ 四川新闻台 (720p) [Not 24/7],http://scgctvshow.sctv.com/hdlive/sctv4/index.m3u8
-四川 Ⅰ 巴中综合台 (1080p) [Not 24/7],http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.flv
-四川 Ⅰ 星空购物台 (720p) [Not 24/7],http://scgctvshow.sctv.com/hdlive/sctv6/index.m3u8
-四川 Ⅰ 达州公共台 (720p) [Not 24/7],http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel36/playlist.m3u8
-四川 Ⅰ 达州综合台 (720p) [Not 24/7],http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel35/playlist.m3u8
-四川卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
-四川卫视 (576p),http://183.207.248.71/gitv/live1/SCWS/SCWS
-四川卫视 (576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8
-四川卫视 (540p),http://112.25.48.68/live/program/live/scws/1300000/mnf.m3u8
-四川卫视 (360p),http://125.210.152.18:9090/live/SCWSHD_H265.m3u8
-四川妇女儿童 (720p) [Not 24/7],http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
-四平新闻综合 [Geo-blocked],https://stream2.jlntv.cn/sptv/sd/live.m3u8
-大冶一套 [Geo-blocked],http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC1T.m3u8
-大冶二套 [Geo-blocked],http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC2T.m3u8
-CGTN,https://0472.org/hls/cgtn.m3u8
-大悟综合 [Geo-blocked],http://yunshangdawu.live.tempsource.cjyun.org/videotmp/s10129-dwzhpd.m3u8
 CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-大爱海外 (720p),https://pulltv3.wanfudaluye.com/live/tv3.m3u8
+兵团卫视 (540p) [Not 24/7],http://112.25.48.68/live/program/live/btws/1300000/mnf.m3u8
+CGTN,https://0472.org/hls/cgtn.m3u8
+内蒙古 (576p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225836/index.m3u8
 CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
+内蒙古卫视 (576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+内蒙古卫视 (576p),http://117.169.120.140:8080/live/neimenggustv/.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
+内蒙古卫视 (576p),http://183.207.248.71/gitv/live1/G_NEIMENGGU/G_NEIMENGGU
+熊猫直播,https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
+内蒙古卫视 (576p),http://223.110.245.173/PLTV/4/224/3221225836/index.m3u8
+支持作者,https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4
+农安新闻综合 [Geo-blocked],https://stream2.jlntv.cn/naxw/sd/live.m3u8
+兵团卫视,http://218.13.138.139:59901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯 (720p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+兵团卫视,http://222.71.55.147:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
+凤凰资讯 (576p),http://125.210.152.18:9090/live/FHZX_1200.m3u8
+兵团卫视,http://111.59.24.227:8181/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+利川公共 (576p) [Geo-blocked],http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lcgg.m3u8
+兵团卫视,http://61.178.227.57:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+利川公共 (180p) [Not 24/7],http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w1847269952_b204800.m3u8
+兵团卫视,http://221.7.175.154:8445/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
+利川新闻综合 (480p) [Not 24/7],http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w439903609_b1228800.m3u8
+海峡卫视,http://58.56.162.102:4466/newlive/live/hls/27/live.m3u8
+前郭综合 [Geo-blocked],https://stream2.jlntv.cn/qg/sd/live.m3u8
+海峡卫视,http://120.40.39.246:352/newlive/live/hls/27/live.m3u8
+动画王国 (1080p),http://183.207.248.71/cntv/live1/donghuawg/donghuawg
+海峡卫视,http://118.122.144.115:8888/newlive/live/hls/27/live.m3u8
+湖南卫视4K,http://8.138.7.223/tv/api.php?id=hnws4k
+北京紀實 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225675/index.m3u8
+海峡卫视,http://221.226.51.220:50081/newlive/live/hls/27/live.m3u8
+浙江卫视4K,http://101.35.240.114:88/live.php?id=浙江卫视4K
+北京紀實 (1080p),http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
+海峡卫视,http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8
+江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
+北京青年 [Not 24/7],http://ivi.bupt.edu.cn/hls/btv8.m3u8
+农林卫视,http://112.27.5.218:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视4K,http://101.35.240.114:88/live.php?id=广东卫视4K
+北碚综合 (576p) [Not 24/7],http://222.178.181.121:12034/beibei01.m3u8
+农林卫视,http://111.59.24.227:8181/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视4K,http://101.35.240.114:88/live.php?id=山东卫视4K
+华亭电视台 (1080p),http://117.156.28.119/270000001111/1110000148/index.m3u8
+农林卫视,http://112.234.22.76:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+华数 (720p) [Not 24/7],http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+农林卫视,http://119.166.53.110:9901/tsfile/live/0002_45.m3u8?key=txiptv&playlive=1&authid=0
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+南京十八 (576p),http://183.207.248.71/gitv/live1/G_NJSB/G_NJSB
+南方卫视,http://120.198.95.220:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&down=1
+南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
+南京少儿 (720p) [Not 24/7],https://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+CCTV4K真4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
+南阳新闻 (1080p) [Not 24/7],http://30539.hlsplay.aodianyun.com/lms_30539/tv_channel_142.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
