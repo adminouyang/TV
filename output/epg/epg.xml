@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20261105020701 +0800">
+<tv date="20261105182749 +0800">
 	<channel id="CCTV1">
 		<display-name lang="zh">CCTV1</display-name>
 	</channel>
@@ -24096,6 +24096,108 @@
 	<programme channel="北京科教" start="20261105055400 +0800" stop="20261105060000 +0800">
 		<title lang="zh">梦想北京城市形象片20250724</title>
 	</programme>
+	<programme channel="北京科教" start="20261105060000 +0800" stop="20261105061000 +0800">
+		<title lang="zh">气象观天下</title>
+	</programme>
+	<programme channel="北京科教" start="20261105061000 +0800" stop="20261105071200 +0800">
+		<title lang="zh">法治中国60分</title>
+	</programme>
+	<programme channel="北京科教" start="20261105071200 +0800" stop="20261105073700 +0800">
+		<title lang="zh">纪录时间</title>
+	</programme>
+	<programme channel="北京科教" start="20261105073700 +0800" stop="20261105081000 +0800">
+		<title lang="zh">法治进行时</title>
+	</programme>
+	<programme channel="北京科教" start="20261105081000 +0800" stop="20261105084000 +0800">
+		<title lang="zh">现场说法</title>
+	</programme>
+	<programme channel="北京科教" start="20261105084000 +0800" stop="20261105091000 +0800">
+		<title lang="zh">乐在美食</title>
+	</programme>
+	<programme channel="北京科教" start="20261105091000 +0800" stop="20261105094000 +0800">
+		<title lang="zh">健康北京BRTV名医来了</title>
+	</programme>
+	<programme channel="北京科教" start="20261105094000 +0800" stop="20261105101200 +0800">
+		<title lang="zh">职场健康说</title>
+	</programme>
+	<programme channel="北京科教" start="20261105101200 +0800" stop="20261105102900 +0800">
+		<title lang="zh">时间的礼物</title>
+	</programme>
+	<programme channel="北京科教" start="20261105102900 +0800" stop="20261105110000 +0800">
+		<title lang="zh">乐在美食</title>
+	</programme>
+	<programme channel="北京科教" start="20261105110000 +0800" stop="20261105113000 +0800">
+		<title lang="zh">品质生活</title>
+	</programme>
+	<programme channel="北京科教" start="20261105113000 +0800" stop="20261105120000 +0800">
+		<title lang="zh">现场说法</title>
+	</programme>
+	<programme channel="北京科教" start="20261105120000 +0800" stop="20261105123000 +0800">
+		<title lang="zh">法治进行时</title>
+	</programme>
+	<programme channel="北京科教" start="20261105123000 +0800" stop="20261105130000 +0800">
+		<title lang="zh">第三调解室</title>
+	</programme>
+	<programme channel="北京科教" start="20261105130000 +0800" stop="20261105140000 +0800">
+		<title lang="zh">法治中国60分</title>
+	</programme>
+	<programme channel="北京科教" start="20261105140000 +0800" stop="20261105145000 +0800">
+		<title lang="zh">第三调解室午间版（1）</title>
+	</programme>
+	<programme channel="北京科教" start="20261105145000 +0800" stop="20261105154000 +0800">
+		<title lang="zh">第三调解室午间版（2）</title>
+	</programme>
+	<programme channel="北京科教" start="20261105154000 +0800" stop="20261105154200 +0800">
+		<title lang="zh">气象观天下之气象预报</title>
+	</programme>
+	<programme channel="北京科教" start="20261105154200 +0800" stop="20261105155200 +0800">
+		<title lang="zh">气象观天下</title>
+	</programme>
+	<programme channel="北京科教" start="20261105155200 +0800" stop="20261105162200 +0800">
+		<title lang="zh">职场健康说</title>
+	</programme>
+	<programme channel="北京科教" start="20261105162200 +0800" stop="20261105164400 +0800">
+		<title lang="zh">背影(25)</title>
+	</programme>
+	<programme channel="北京科教" start="20261105164400 +0800" stop="20261105171700 +0800">
+		<title lang="zh">乐在美食</title>
+	</programme>
+	<programme channel="北京科教" start="20261105171700 +0800" stop="20261105173200 +0800">
+		<title lang="zh">时间的礼物</title>
+	</programme>
+	<programme channel="北京科教" start="20261105173200 +0800" stop="20261105182000 +0800">
+		<title lang="zh">品质生活</title>
+	</programme>
+	<programme channel="北京科教" start="20261105182000 +0800" stop="20261105185000 +0800">
+		<title lang="zh">中国故事</title>
+	</programme>
+	<programme channel="北京科教" start="20261105185000 +0800" stop="20261105192000 +0800">
+		<title lang="zh">健康北京</title>
+	</programme>
+	<programme channel="北京科教" start="20261105192000 +0800" stop="20261105195000 +0800">
+		<title lang="zh">职场健康说</title>
+	</programme>
+	<programme channel="北京科教" start="20261105195000 +0800" stop="20261105200100 +0800">
+		<title lang="zh">职场健康说精编版</title>
+	</programme>
+	<programme channel="北京科教" start="20261105200100 +0800" stop="20261105204600 +0800">
+		<title lang="zh">记忆</title>
+	</programme>
+	<programme channel="北京科教" start="20261105204600 +0800" stop="20261105212900 +0800">
+		<title lang="zh">红绿灯重播新闻</title>
+	</programme>
+	<programme channel="北京科教" start="20261105212900 +0800" stop="20261105222200 +0800">
+		<title lang="zh">局处长讲政策第三季(10)</title>
+	</programme>
+	<programme channel="北京科教" start="20261105222200 +0800" stop="20261105225200 +0800">
+		<title lang="zh">第三调解室精编版</title>
+	</programme>
+	<programme channel="北京科教" start="20261105225200 +0800" stop="20261105233700 +0800">
+		<title lang="zh">新一年又一年(14)</title>
+	</programme>
+	<programme channel="北京科教" start="20261105233700 +0800" stop="20261105235900 +0800">
+		<title lang="zh">新一年又一年(15)</title>
+	</programme>
 	<channel id="北京卡酷少儿">
 		<display-name lang="zh">北京卡酷少儿</display-name>
 	</channel>
@@ -26372,108 +26474,6 @@
 	</programme>
 	<programme channel="求索频道" start="20261104231000 +0800" stop="20261105000000 +0800">
 		<title lang="zh">极品露营车4-1</title>
-	</programme>
-	<programme channel="求索频道" start="20261105000000 +0800" stop="20261105000500 +0800">
-		<title lang="zh">5分钟宣传包</title>
-	</programme>
-	<programme channel="求索频道" start="20261105000500 +0800" stop="20261105003500 +0800">
-		<title lang="zh">我与大运河1</title>
-	</programme>
-	<programme channel="求索频道" start="20261105003500 +0800" stop="20261105005500 +0800">
-		<title lang="zh">我与大运河2</title>
-	</programme>
-	<programme channel="求索频道" start="20261105005500 +0800" stop="20261105012000 +0800">
-		<title lang="zh">我与大运河3</title>
-	</programme>
-	<programme channel="求索频道" start="20261105012000 +0800" stop="20261105014500 +0800">
-		<title lang="zh">我与大运河4</title>
-	</programme>
-	<programme channel="求索频道" start="20261105014500 +0800" stop="20261105021000 +0800">
-		<title lang="zh">我与大运河5</title>
-	</programme>
-	<programme channel="求索频道" start="20261105021000 +0800" stop="20261105023500 +0800">
-		<title lang="zh">我与大运河6</title>
-	</programme>
-	<programme channel="求索频道" start="20261105023500 +0800" stop="20261105030000 +0800">
-		<title lang="zh">发现南京1</title>
-	</programme>
-	<programme channel="求索频道" start="20261105030000 +0800" stop="20261105032500 +0800">
-		<title lang="zh">发现南京1</title>
-	</programme>
-	<programme channel="求索频道" start="20261105032500 +0800" stop="20261105033000 +0800">
-		<title lang="zh">5分钟宣传包</title>
-	</programme>
-	<programme channel="求索频道" start="20261105033000 +0800" stop="20261105035500 +0800">
-		<title lang="zh">发现南京2</title>
-	</programme>
-	<programme channel="求索频道" start="20261105035500 +0800" stop="20261105042000 +0800">
-		<title lang="zh">发现南京2</title>
-	</programme>
-	<programme channel="求索频道" start="20261105042000 +0800" stop="20261105044500 +0800">
-		<title lang="zh">我家城墙五千岁1,2,3</title>
-	</programme>
-	<programme channel="求索频道" start="20261105044500 +0800" stop="20261105051000 +0800">
-		<title lang="zh">我家城墙五千岁1,2,3</title>
-	</programme>
-	<programme channel="求索频道" start="20261105051000 +0800" stop="20261105053500 +0800">
-		<title lang="zh">我家城墙五千岁4,5,6</title>
-	</programme>
-	<programme channel="求索频道" start="20261105053500 +0800" stop="20261105060000 +0800">
-		<title lang="zh">我家城墙五千岁4,5,6</title>
-	</programme>
-	<programme channel="求索频道" start="20261105060000 +0800" stop="20261105060500 +0800">
-		<title lang="zh">5分钟宣传包</title>
-	</programme>
-	<programme channel="求索频道" start="20261105060500 +0800" stop="20261105065500 +0800">
-		<title lang="zh">小镇翻新趣6-4</title>
-	</programme>
-	<programme channel="求索频道" start="20261105065500 +0800" stop="20261105074500 +0800">
-		<title lang="zh">卡悠提·彼得森：野地大胆王15&amp;16</title>
-	</programme>
-	<programme channel="求索频道" start="20261105074500 +0800" stop="20261105083500 +0800">
-		<title lang="zh">战猿崛起1</title>
-	</programme>
-	<programme channel="求索频道" start="20261105083500 +0800" stop="20261105092500 +0800">
-		<title lang="zh">2026年浙产纪录片展映</title>
-	</programme>
-	<programme channel="求索频道" start="20261105092500 +0800" stop="20261105093000 +0800">
-		<title lang="zh">5分钟宣传包</title>
-	</programme>
-	<programme channel="求索频道" start="20261105093000 +0800" stop="20261105102000 +0800">
-		<title lang="zh">小小明星厨师5</title>
-	</programme>
-	<programme channel="求索频道" start="20261105102000 +0800" stop="20261105111000 +0800">
-		<title lang="zh">餐馆 免下车餐厅和小酒馆27-1，27-2</title>
-	</programme>
-	<programme channel="求索频道" start="20261105111000 +0800" stop="20261105120000 +0800">
-		<title lang="zh">极品露营车4-1</title>
-	</programme>
-	<programme channel="求索频道" start="20261105120000 +0800" stop="20261105120500 +0800">
-		<title lang="zh">5分钟宣传包</title>
-	</programme>
-	<programme channel="求索频道" start="20261105120500 +0800" stop="20261105125500 +0800">
-		<title lang="zh">宝宝震撼弹3-4</title>
-	</programme>
-	<programme channel="求索频道" start="20261105125500 +0800" stop="20261105134500 +0800">
-		<title lang="zh">顶尖餐车大比拼7-4</title>
-	</programme>
-	<programme channel="求索频道" start="20261105134500 +0800" stop="20261105143500 +0800">
-		<title lang="zh">金矿的赌注 寒冬财运4</title>
-	</programme>
-	<programme channel="求索频道" start="20261105143500 +0800" stop="20261105152500 +0800">
-		<title lang="zh">不可思议的旅馆7-4</title>
-	</programme>
-	<programme channel="求索频道" start="20261105152500 +0800" stop="20261105153000 +0800">
-		<title lang="zh">5分钟宣传包</title>
-	</programme>
-	<programme channel="求索频道" start="20261105153000 +0800" stop="20261105162000 +0800">
-		<title lang="zh">豪饮旅行家3-4</title>
-	</programme>
-	<programme channel="求索频道" start="20261105162000 +0800" stop="20261105171000 +0800">
-		<title lang="zh">房产兄弟:A咖报恩计划4</title>
-	</programme>
-	<programme channel="求索频道" start="20261105171000 +0800" stop="20261105180000 +0800">
-		<title lang="zh">制造的原理16-7，16-8</title>
 	</programme>
 	<programme channel="求索频道" start="20261105180000 +0800" stop="20261105180500 +0800">
 		<title lang="zh">5分钟宣传包</title>
