@@ -1,17 +1,15 @@
-CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
+CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 支持作者,https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 倚天屠龙记,https://live.metshop.top/huya/23734246
 刘德华电影,https://live.metshop.top/huya/11342424
 创世纪,https://live.metshop.top/huya/29465852
 功夫电影,https://live.metshop.top/huya/11352941
 古天乐电影,https://live.metshop.top/huya/29982675
-周星驰电影,https://live.metshop.top/huya/11342412
 大时代,https://live.metshop.top/huya/23865161
 宇宙科幻合集,https://live.metshop.top/huya/11342428
 寻秦记,https://live.metshop.top/huya/29465848
@@ -46,7 +44,6 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 电影蜘蛛侠,http://live.metshop.top/huya/21059599?cdn=alicdn
 电影谍战,http://live.metshop.top/huya/21059585?cdn=alicdn
 电影谍战片,http://live.metshop.top/huya/21059587?cdn=alicdn
-电影贺岁,http://live.metshop.top/huya/11601971?cdn=alicdn
 电影高分动作,http://live.metshop.top/huya/11352884?cdn=alicdn
 罪犯电影,https://live.metshop.top/huya/11352962
 谍战电影,https://live.metshop.top/huya/21059585
@@ -55,21 +52,16 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 鉴证实录,https://live.metshop.top/huya/23903183
 黄渤电影,https://live.metshop.top/huya/11352876
 南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
-韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
-东莞新闻综合,https://stream.sun0769.com/dgrtv1/mp4tv1_800/index.m3u8
 南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 哈尔滨都市咨询,http://stream.hrbtv.net/zxpd/sd/live.m3u8?zheild
 广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
-延边2,http://stream5.jlntv.cn/wq/playlist.m3u8
 浙江钱江频道,http://ali-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
 番禺综合,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 福州生活,http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
 萧山综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-西安都市,http://112.46.105.20:8009/hls/29/index.m3u8
 邢台生活,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
-邯郸公共频道,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
+陕西新闻咨询,http://112.46.105.20:8009/hls/18/index.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
-CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 东丰,http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 九台,http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 兵团五师双河影,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
@@ -88,7 +80,6 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 通化县,http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild
 靖宇,http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
 龙井,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
-AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
 1993年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4
 1994年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4
 1995年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4
@@ -105,7 +96,6 @@ AMC音乐,https://AMChls.wns.live/hls/stream.m3u8
 2010年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4
 2013年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4
 2014年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4
-◆◆◆　https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
-2026-08-27 14:06:22,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
 2018年春晚,https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
-CETV-3,http://107.150.60.122/live/cetv3.m3u8
+2026-11-22 00:21:10,https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4
+www.izbds.com,https://vd2.bdstatic.com/mda-sctj0f6r4u1bpebc/1080p/cae_h264/1774706523506678171/mda-sctj0f6r4u1bpebc.mp4
